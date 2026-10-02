@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "2.0",
+  "total_sources": 1,
+  "sources": [
+    {
+      "source_file": "Attachment, Trauma, and Healing Understanding and Treating Attachment Disorder in Children, Families and Adults (Michael Orlans, Terry M. Levy) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "filename": "Attachment, Trauma, and Healing Understanding and Treating Attachment Disorder in Children, Families and Adults (Michael Orlans, Terry M. Levy) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "format": "pdf",
+      "extraction_method": "pdftotext",
+      "file_size_mb": 3.92,
+      "pages": 482,
+      "pages_label": "pages",
+      "chars": 1199317,
+      "words": 167036,
+      "estimated_tokens": 222733,
+      "token_estimate_method": "cjk-aware-mixed",
+      "ocr_used": false,
+      "ocr_recommended": false,
+      "visual_assets": 0,
+      "visual_review_recommended": false,
+      "page_mapping_complete": true,
+      "chapters_detected": 1,
+      "has_toc": true,
+      "sha256": "a0c586246888535d4d0214985ea81e3dd42cf1a29799eefb8dc5f4b5002203e1",
+      "text_sha256": "aabc58c1f3af4fd67ab61dbe7e4314cbecfefcb5e7584c9bdec3e5bf0d3f4da5",
+      "extractor_schema": "learn-from-materials/extractor-v2",
+      "reused_from_cache": false,
+      "duration_seconds": 0.549692
+    }
+  ]
+}

@@ -1,0 +1,2725 @@
+{
+  "schemaVersion": "learn-from-materials/quick-audit-v1",
+  "learningDepth": "quick",
+  "structure": [
+    {
+      "title": "封面、版权页、献词与目录（List of Tables / Figures）",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00001",
+        "src-a0c586246888-pdf_page-00002",
+        "src-a0c586246888-pdf_page-00003",
+        "src-a0c586246888-pdf_page-00004",
+        "src-a0c586246888-pdf_page-00005",
+        "src-a0c586246888-pdf_page-00006",
+        "src-a0c586246888-pdf_page-00007",
+        "src-a0c586246888-pdf_page-00008",
+        "src-a0c586246888-pdf_page-00009",
+        "src-a0c586246888-pdf_page-00010"
+      ],
+      "status": "scanned",
+      "note": "仅具结构作用：书名页、版权与版本信息、献词、目录与表图清单；第10页的表图清单用于核对全书表格与图示编号。"
+    },
+    {
+      "title": "前置部分：Foreword / Acknowledgments / Confidentiality",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00011",
+        "src-a0c586246888-pdf_page-00012",
+        "src-a0c586246888-pdf_page-00013",
+        "src-a0c586246888-pdf_page-00014",
+        "src-a0c586246888-pdf_page-00015"
+      ],
+      "status": "scanned",
+      "note": "已扫描前言与致谢、保密说明，用于确认作者立场与案例使用声明。"
+    },
+    {
+      "title": "第1章《Introduction》",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00016",
+        "src-a0c586246888-pdf_page-00017",
+        "src-a0c586246888-pdf_page-00018",
+        "src-a0c586246888-pdf_page-00019",
+        "src-a0c586246888-pdf_page-00020",
+        "src-a0c586246888-pdf_page-00021",
+        "src-a0c586246888-pdf_page-00022",
+        "src-a0c586246888-pdf_page-00023",
+        "src-a0c586246888-pdf_page-00024",
+        "src-a0c586246888-pdf_page-00025",
+        "src-a0c586246888-pdf_page-00026",
+        "src-a0c586246888-pdf_page-00027",
+        "src-a0c586246888-pdf_page-00028",
+        "src-a0c586246888-pdf_page-00029",
+        "src-a0c586246888-pdf_page-00030",
+        "src-a0c586246888-pdf_page-00031",
+        "src-a0c586246888-pdf_page-00032"
+      ],
+      "status": "scanned",
+      "note": "已通读全章；问题界定、十一条基础原则、五条依恋线索、四条解决路径与治疗争议均在此章。"
+    },
+    {
+      "title": "第2章《Historical Perspective》",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00033",
+        "src-a0c586246888-pdf_page-00034",
+        "src-a0c586246888-pdf_page-00035",
+        "src-a0c586246888-pdf_page-00036",
+        "src-a0c586246888-pdf_page-00037",
+        "src-a0c586246888-pdf_page-00038",
+        "src-a0c586246888-pdf_page-00039",
+        "src-a0c586246888-pdf_page-00040",
+        "src-a0c586246888-pdf_page-00041",
+        "src-a0c586246888-pdf_page-00042",
+        "src-a0c586246888-pdf_page-00043"
+      ],
+      "status": "scanned",
+      "note": "已顺序读取开篇与关键研究段落（Bowlby、Harlow、Ainsworth、分离三阶段），次要史料未逐条展开。"
+    },
+    {
+      "title": "第3章《Roots of Attachment》",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00044",
+        "src-a0c586246888-pdf_page-00045",
+        "src-a0c586246888-pdf_page-00046",
+        "src-a0c586246888-pdf_page-00047",
+        "src-a0c586246888-pdf_page-00048",
+        "src-a0c586246888-pdf_page-00049",
+        "src-a0c586246888-pdf_page-00050",
+        "src-a0c586246888-pdf_page-00051",
+        "src-a0c586246888-pdf_page-00052",
+        "src-a0c586246888-pdf_page-00053",
+        "src-a0c586246888-pdf_page-00054",
+        "src-a0c586246888-pdf_page-00055",
+        "src-a0c586246888-pdf_page-00056",
+        "src-a0c586246888-pdf_page-00057",
+        "src-a0c586246888-pdf_page-00058",
+        "src-a0c586246888-pdf_page-00059",
+        "src-a0c586246888-pdf_page-00060",
+        "src-a0c586246888-pdf_page-00061",
+        "src-a0c586246888-pdf_page-00062",
+        "src-a0c586246888-pdf_page-00063",
+        "src-a0c586246888-pdf_page-00064",
+        "src-a0c586246888-pdf_page-00065",
+        "src-a0c586246888-pdf_page-00066",
+        "src-a0c586246888-pdf_page-00067",
+        "src-a0c586246888-pdf_page-00068",
+        "src-a0c586246888-pdf_page-00069",
+        "src-a0c586246888-pdf_page-00070",
+        "src-a0c586246888-pdf_page-00071",
+        "src-a0c586246888-pdf_page-00072",
+        "src-a0c586246888-pdf_page-00073",
+        "src-a0c586246888-pdf_page-00074",
+        "src-a0c586246888-pdf_page-00075",
+        "src-a0c586246888-pdf_page-00076"
+      ],
+      "status": "scanned",
+      "note": "已精读依恋四阶段、第一年与第二年依恋周期、哭泣/眼神/触摸/心跳连接等机制段落；产前与孕期段落为扫描级。"
+    },
+    {
+      "title": "第4章《Personal and Social Competencies: The Attachment Foundation》",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00077",
+        "src-a0c586246888-pdf_page-00078",
+        "src-a0c586246888-pdf_page-00079",
+        "src-a0c586246888-pdf_page-00080",
+        "src-a0c586246888-pdf_page-00081",
+        "src-a0c586246888-pdf_page-00082",
+        "src-a0c586246888-pdf_page-00083",
+        "src-a0c586246888-pdf_page-00084",
+        "src-a0c586246888-pdf_page-00085",
+        "src-a0c586246888-pdf_page-00086",
+        "src-a0c586246888-pdf_page-00087",
+        "src-a0c586246888-pdf_page-00088",
+        "src-a0c586246888-pdf_page-00089",
+        "src-a0c586246888-pdf_page-00090",
+        "src-a0c586246888-pdf_page-00091",
+        "src-a0c586246888-pdf_page-00092"
+      ],
+      "status": "scanned",
+      "note": "已读取自我发展、内在工作模型表、假我与内在状态语言等核心段落；道德发展与文化差异段落为扫描级。"
+    },
+    {
+      "title": "第5章《Disrupted Attachment》",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00093",
+        "src-a0c586246888-pdf_page-00094",
+        "src-a0c586246888-pdf_page-00095",
+        "src-a0c586246888-pdf_page-00096",
+        "src-a0c586246888-pdf_page-00097",
+        "src-a0c586246888-pdf_page-00098",
+        "src-a0c586246888-pdf_page-00099",
+        "src-a0c586246888-pdf_page-00100",
+        "src-a0c586246888-pdf_page-00101",
+        "src-a0c586246888-pdf_page-00102",
+        "src-a0c586246888-pdf_page-00103",
+        "src-a0c586246888-pdf_page-00104",
+        "src-a0c586246888-pdf_page-00105",
+        "src-a0c586246888-pdf_page-00106",
+        "src-a0c586246888-pdf_page-00107",
+        "src-a0c586246888-pdf_page-00108",
+        "src-a0c586246888-pdf_page-00109",
+        "src-a0c586246888-pdf_page-00110",
+        "src-a0c586246888-pdf_page-00111",
+        "src-a0c586246888-pdf_page-00112",
+        "src-a0c586246888-pdf_page-00113",
+        "src-a0c586246888-pdf_page-00114",
+        "src-a0c586246888-pdf_page-00115",
+        "src-a0c586246888-pdf_page-00116",
+        "src-a0c586246888-pdf_page-00117",
+        "src-a0c586246888-pdf_page-00118",
+        "src-a0c586246888-pdf_page-00119",
+        "src-a0c586246888-pdf_page-00120",
+        "src-a0c586246888-pdf_page-00121",
+        "src-a0c586246888-pdf_page-00122",
+        "src-a0c586246888-pdf_page-00123",
+        "src-a0c586246888-pdf_page-00124",
+        "src-a0c586246888-pdf_page-00125",
+        "src-a0c586246888-pdf_page-00126",
+        "src-a0c586246888-pdf_page-00127",
+        "src-a0c586246888-pdf_page-00128",
+        "src-a0c586246888-pdf_page-00129",
+        "src-a0c586246888-pdf_page-00130",
+        "src-a0c586246888-pdf_page-00131"
+      ],
+      "status": "scanned",
+      "note": "已精读自我调节、混乱—无定向依恋七类反应、跨代传递、虐待统计、忽视、暴力与性侵等核心段落；仪式性虐待与物质暴露段落为扫描级。"
+    },
+    {
+      "title": "第6章《Assessment》",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00132",
+        "src-a0c586246888-pdf_page-00133",
+        "src-a0c586246888-pdf_page-00134",
+        "src-a0c586246888-pdf_page-00135",
+        "src-a0c586246888-pdf_page-00136",
+        "src-a0c586246888-pdf_page-00137",
+        "src-a0c586246888-pdf_page-00138",
+        "src-a0c586246888-pdf_page-00139",
+        "src-a0c586246888-pdf_page-00140",
+        "src-a0c586246888-pdf_page-00141",
+        "src-a0c586246888-pdf_page-00142",
+        "src-a0c586246888-pdf_page-00143",
+        "src-a0c586246888-pdf_page-00144",
+        "src-a0c586246888-pdf_page-00145",
+        "src-a0c586246888-pdf_page-00146",
+        "src-a0c586246888-pdf_page-00147",
+        "src-a0c586246888-pdf_page-00148",
+        "src-a0c586246888-pdf_page-00149",
+        "src-a0c586246888-pdf_page-00150",
+        "src-a0c586246888-pdf_page-00151",
+        "src-a0c586246888-pdf_page-00152",
+        "src-a0c586246888-pdf_page-00153",
+        "src-a0c586246888-pdf_page-00154",
+        "src-a0c586246888-pdf_page-00155",
+        "src-a0c586246888-pdf_page-00156",
+        "src-a0c586246888-pdf_page-00157",
+        "src-a0c586246888-pdf_page-00158",
+        "src-a0c586246888-pdf_page-00159",
+        "src-a0c586246888-pdf_page-00160",
+        "src-a0c586246888-pdf_page-00161",
+        "src-a0c586246888-pdf_page-00162",
+        "src-a0c586246888-pdf_page-00163",
+        "src-a0c586246888-pdf_page-00164",
+        "src-a0c586246888-pdf_page-00165"
+      ],
+      "status": "scanned",
+      "note": "已精读三支柱、六类症状框架、家庭系统维度、依恋连续谱与鉴别诊断；六类症状下的逐条事例为扫描级（已在页面按类别归纳）。"
+    },
+    {
+      "title": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00166",
+        "src-a0c586246888-pdf_page-00167",
+        "src-a0c586246888-pdf_page-00168",
+        "src-a0c586246888-pdf_page-00169",
+        "src-a0c586246888-pdf_page-00170",
+        "src-a0c586246888-pdf_page-00171",
+        "src-a0c586246888-pdf_page-00172",
+        "src-a0c586246888-pdf_page-00173",
+        "src-a0c586246888-pdf_page-00174",
+        "src-a0c586246888-pdf_page-00175",
+        "src-a0c586246888-pdf_page-00176",
+        "src-a0c586246888-pdf_page-00177",
+        "src-a0c586246888-pdf_page-00178",
+        "src-a0c586246888-pdf_page-00179",
+        "src-a0c586246888-pdf_page-00180",
+        "src-a0c586246888-pdf_page-00181",
+        "src-a0c586246888-pdf_page-00182",
+        "src-a0c586246888-pdf_page-00183",
+        "src-a0c586246888-pdf_page-00184",
+        "src-a0c586246888-pdf_page-00185",
+        "src-a0c586246888-pdf_page-00186",
+        "src-a0c586246888-pdf_page-00187"
+      ],
+      "status": "scanned",
+      "note": "已通读全章；治疗序列、治疗关系七成分、LAP 目标与功能、阻抗处理、契约三阶段与四类目标均在此章。"
+    },
+    {
+      "title": "第8章《Corrective Attachment Therapy: Methods and Interventions》",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00188",
+        "src-a0c586246888-pdf_page-00189",
+        "src-a0c586246888-pdf_page-00190",
+        "src-a0c586246888-pdf_page-00191",
+        "src-a0c586246888-pdf_page-00192",
+        "src-a0c586246888-pdf_page-00193",
+        "src-a0c586246888-pdf_page-00194",
+        "src-a0c586246888-pdf_page-00195",
+        "src-a0c586246888-pdf_page-00196",
+        "src-a0c586246888-pdf_page-00197",
+        "src-a0c586246888-pdf_page-00198",
+        "src-a0c586246888-pdf_page-00199",
+        "src-a0c586246888-pdf_page-00200",
+        "src-a0c586246888-pdf_page-00201",
+        "src-a0c586246888-pdf_page-00202",
+        "src-a0c586246888-pdf_page-00203",
+        "src-a0c586246888-pdf_page-00204",
+        "src-a0c586246888-pdf_page-00205",
+        "src-a0c586246888-pdf_page-00206",
+        "src-a0c586246888-pdf_page-00207",
+        "src-a0c586246888-pdf_page-00208",
+        "src-a0c586246888-pdf_page-00209",
+        "src-a0c586246888-pdf_page-00210",
+        "src-a0c586246888-pdf_page-00211",
+        "src-a0c586246888-pdf_page-00212",
+        "src-a0c586246888-pdf_page-00213",
+        "src-a0c586246888-pdf_page-00214",
+        "src-a0c586246888-pdf_page-00215",
+        "src-a0c586246888-pdf_page-00216",
+        "src-a0c586246888-pdf_page-00217",
+        "src-a0c586246888-pdf_page-00218",
+        "src-a0c586246888-pdf_page-00219",
+        "src-a0c586246888-pdf_page-00220",
+        "src-a0c586246888-pdf_page-00221",
+        "src-a0c586246888-pdf_page-00222",
+        "src-a0c586246888-pdf_page-00223",
+        "src-a0c586246888-pdf_page-00224",
+        "src-a0c586246888-pdf_page-00225",
+        "src-a0c586246888-pdf_page-00226",
+        "src-a0c586246888-pdf_page-00227",
+        "src-a0c586246888-pdf_page-00228",
+        "src-a0c586246888-pdf_page-00229",
+        "src-a0c586246888-pdf_page-00230",
+        "src-a0c586246888-pdf_page-00231",
+        "src-a0c586246888-pdf_page-00232",
+        "src-a0c586246888-pdf_page-00233",
+        "src-a0c586246888-pdf_page-00234",
+        "src-a0c586246888-pdf_page-00235"
+      ],
+      "status": "scanned",
+      "note": "已读取治疗师作为安全基地、希望与安慰剂效应，以及重访/修正/重建三阶段的方法清单（含章节标题级结构账本）；大量案例逐字叙述未全部精读。"
+    },
+    {
+      "title": "第9章《Corrective Attachment Therapy: The Family System》",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00236",
+        "src-a0c586246888-pdf_page-00237",
+        "src-a0c586246888-pdf_page-00238",
+        "src-a0c586246888-pdf_page-00239",
+        "src-a0c586246888-pdf_page-00240",
+        "src-a0c586246888-pdf_page-00241",
+        "src-a0c586246888-pdf_page-00242",
+        "src-a0c586246888-pdf_page-00243",
+        "src-a0c586246888-pdf_page-00244",
+        "src-a0c586246888-pdf_page-00245",
+        "src-a0c586246888-pdf_page-00246",
+        "src-a0c586246888-pdf_page-00247",
+        "src-a0c586246888-pdf_page-00248",
+        "src-a0c586246888-pdf_page-00249",
+        "src-a0c586246888-pdf_page-00250",
+        "src-a0c586246888-pdf_page-00251",
+        "src-a0c586246888-pdf_page-00252",
+        "src-a0c586246888-pdf_page-00253",
+        "src-a0c586246888-pdf_page-00254",
+        "src-a0c586246888-pdf_page-00255",
+        "src-a0c586246888-pdf_page-00256",
+        "src-a0c586246888-pdf_page-00257"
+      ],
+      "status": "scanned",
+      "note": "已精读系统三原则、安全家庭基地五种破坏情形与婚姻影响；手足、继代表演与生态模式案例为扫描级。"
+    },
+    {
+      "title": "第10章《Adult and Couple Attachment》",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00258",
+        "src-a0c586246888-pdf_page-00259",
+        "src-a0c586246888-pdf_page-00260",
+        "src-a0c586246888-pdf_page-00261",
+        "src-a0c586246888-pdf_page-00262",
+        "src-a0c586246888-pdf_page-00263",
+        "src-a0c586246888-pdf_page-00264",
+        "src-a0c586246888-pdf_page-00265",
+        "src-a0c586246888-pdf_page-00266",
+        "src-a0c586246888-pdf_page-00267",
+        "src-a0c586246888-pdf_page-00268",
+        "src-a0c586246888-pdf_page-00269",
+        "src-a0c586246888-pdf_page-00270",
+        "src-a0c586246888-pdf_page-00271",
+        "src-a0c586246888-pdf_page-00272",
+        "src-a0c586246888-pdf_page-00273",
+        "src-a0c586246888-pdf_page-00274",
+        "src-a0c586246888-pdf_page-00275",
+        "src-a0c586246888-pdf_page-00276",
+        "src-a0c586246888-pdf_page-00277",
+        "src-a0c586246888-pdf_page-00278",
+        "src-a0c586246888-pdf_page-00279",
+        "src-a0c586246888-pdf_page-00280",
+        "src-a0c586246888-pdf_page-00281"
+      ],
+      "status": "scanned",
+      "note": "已精读四风格、三维度与儿童—成人对应特征；依恋沟通训练与伴侣案例细节为扫描级。"
+    },
+    {
+      "title": "第11章《Intensive Outpatient Psychotherapy》",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00282",
+        "src-a0c586246888-pdf_page-00283",
+        "src-a0c586246888-pdf_page-00284",
+        "src-a0c586246888-pdf_page-00285",
+        "src-a0c586246888-pdf_page-00286",
+        "src-a0c586246888-pdf_page-00287",
+        "src-a0c586246888-pdf_page-00288",
+        "src-a0c586246888-pdf_page-00289",
+        "src-a0c586246888-pdf_page-00290",
+        "src-a0c586246888-pdf_page-00291",
+        "src-a0c586246888-pdf_page-00292",
+        "src-a0c586246888-pdf_page-00293",
+        "src-a0c586246888-pdf_page-00294",
+        "src-a0c586246888-pdf_page-00295",
+        "src-a0c586246888-pdf_page-00296",
+        "src-a0c586246888-pdf_page-00297",
+        "src-a0c586246888-pdf_page-00298",
+        "src-a0c586246888-pdf_page-00299",
+        "src-a0c586246888-pdf_page-00300",
+        "src-a0c586246888-pdf_page-00301",
+        "src-a0c586246888-pdf_page-00302",
+        "src-a0c586246888-pdf_page-00303",
+        "src-a0c586246888-pdf_page-00304",
+        "src-a0c586246888-pdf_page-00305",
+        "src-a0c586246888-pdf_page-00306",
+        "src-a0c586246888-pdf_page-00307",
+        "src-a0c586246888-pdf_page-00308",
+        "src-a0c586246888-pdf_page-00309",
+        "src-a0c586246888-pdf_page-00310",
+        "src-a0c586246888-pdf_page-00311",
+        "src-a0c586246888-pdf_page-00312",
+        "src-a0c586246888-pdf_page-00313",
+        "src-a0c586246888-pdf_page-00314",
+        "src-a0c586246888-pdf_page-00315",
+        "src-a0c586246888-pdf_page-00316"
+      ],
+      "status": "scanned",
+      "note": "已读取结构形式、三条优势与结果研究段落；十次会谈的逐次案例记录为扫描级。"
+    },
+    {
+      "title": "第12章《Corrective Attachment Parenting》",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00317",
+        "src-a0c586246888-pdf_page-00318",
+        "src-a0c586246888-pdf_page-00319",
+        "src-a0c586246888-pdf_page-00320",
+        "src-a0c586246888-pdf_page-00321",
+        "src-a0c586246888-pdf_page-00322",
+        "src-a0c586246888-pdf_page-00323",
+        "src-a0c586246888-pdf_page-00324",
+        "src-a0c586246888-pdf_page-00325",
+        "src-a0c586246888-pdf_page-00326",
+        "src-a0c586246888-pdf_page-00327",
+        "src-a0c586246888-pdf_page-00328",
+        "src-a0c586246888-pdf_page-00329",
+        "src-a0c586246888-pdf_page-00330",
+        "src-a0c586246888-pdf_page-00331",
+        "src-a0c586246888-pdf_page-00332",
+        "src-a0c586246888-pdf_page-00333",
+        "src-a0c586246888-pdf_page-00334",
+        "src-a0c586246888-pdf_page-00335",
+        "src-a0c586246888-pdf_page-00336",
+        "src-a0c586246888-pdf_page-00337",
+        "src-a0c586246888-pdf_page-00338",
+        "src-a0c586246888-pdf_page-00339",
+        "src-a0c586246888-pdf_page-00340",
+        "src-a0c586246888-pdf_page-00341",
+        "src-a0c586246888-pdf_page-00342",
+        "src-a0c586246888-pdf_page-00343",
+        "src-a0c586246888-pdf_page-00344",
+        "src-a0c586246888-pdf_page-00345",
+        "src-a0c586246888-pdf_page-00346",
+        "src-a0c586246888-pdf_page-00347",
+        "src-a0c586246888-pdf_page-00348",
+        "src-a0c586246888-pdf_page-00349"
+      ],
+      "status": "scanned",
+      "note": "已精读疗愈环境要素、十大 C、后果与惩罚、自主圈、关注单位、安全基地四要素与沟通要点；问答章节为扫描级。"
+    },
+    {
+      "title": "第13章《Foster Care, Adoption, and the Child Welfare System》",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00350",
+        "src-a0c586246888-pdf_page-00351",
+        "src-a0c586246888-pdf_page-00352",
+        "src-a0c586246888-pdf_page-00353",
+        "src-a0c586246888-pdf_page-00354",
+        "src-a0c586246888-pdf_page-00355",
+        "src-a0c586246888-pdf_page-00356",
+        "src-a0c586246888-pdf_page-00357",
+        "src-a0c586246888-pdf_page-00358",
+        "src-a0c586246888-pdf_page-00359",
+        "src-a0c586246888-pdf_page-00360",
+        "src-a0c586246888-pdf_page-00361",
+        "src-a0c586246888-pdf_page-00362",
+        "src-a0c586246888-pdf_page-00363",
+        "src-a0c586246888-pdf_page-00364",
+        "src-a0c586246888-pdf_page-00365",
+        "src-a0c586246888-pdf_page-00366",
+        "src-a0c586246888-pdf_page-00367",
+        "src-a0c586246888-pdf_page-00368",
+        "src-a0c586246888-pdf_page-00369",
+        "src-a0c586246888-pdf_page-00370",
+        "src-a0c586246888-pdf_page-00371",
+        "src-a0c586246888-pdf_page-00372",
+        "src-a0c586246888-pdf_page-00373",
+        "src-a0c586246888-pdf_page-00374",
+        "src-a0c586246888-pdf_page-00375",
+        "src-a0c586246888-pdf_page-00376",
+        "src-a0c586246888-pdf_page-00377",
+        "src-a0c586246888-pdf_page-00378",
+        "src-a0c586246888-pdf_page-00379",
+        "src-a0c586246888-pdf_page-00380"
+      ],
+      "status": "scanned",
+      "note": "已读取系统规模数据、历史沿革、安置建议与预防项目清单；收养案例与个别项目细节为扫描级。"
+    },
+    {
+      "title": "附录《Appendix A–I》与书目、索引",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00381",
+        "src-a0c586246888-pdf_page-00382",
+        "src-a0c586246888-pdf_page-00383",
+        "src-a0c586246888-pdf_page-00384",
+        "src-a0c586246888-pdf_page-00385",
+        "src-a0c586246888-pdf_page-00386",
+        "src-a0c586246888-pdf_page-00387",
+        "src-a0c586246888-pdf_page-00388",
+        "src-a0c586246888-pdf_page-00389",
+        "src-a0c586246888-pdf_page-00390",
+        "src-a0c586246888-pdf_page-00391",
+        "src-a0c586246888-pdf_page-00392",
+        "src-a0c586246888-pdf_page-00393",
+        "src-a0c586246888-pdf_page-00394",
+        "src-a0c586246888-pdf_page-00395",
+        "src-a0c586246888-pdf_page-00396",
+        "src-a0c586246888-pdf_page-00397",
+        "src-a0c586246888-pdf_page-00398",
+        "src-a0c586246888-pdf_page-00399",
+        "src-a0c586246888-pdf_page-00400",
+        "src-a0c586246888-pdf_page-00401",
+        "src-a0c586246888-pdf_page-00402",
+        "src-a0c586246888-pdf_page-00403",
+        "src-a0c586246888-pdf_page-00404",
+        "src-a0c586246888-pdf_page-00405",
+        "src-a0c586246888-pdf_page-00406",
+        "src-a0c586246888-pdf_page-00407",
+        "src-a0c586246888-pdf_page-00408",
+        "src-a0c586246888-pdf_page-00409",
+        "src-a0c586246888-pdf_page-00410",
+        "src-a0c586246888-pdf_page-00411",
+        "src-a0c586246888-pdf_page-00412",
+        "src-a0c586246888-pdf_page-00413",
+        "src-a0c586246888-pdf_page-00414",
+        "src-a0c586246888-pdf_page-00415",
+        "src-a0c586246888-pdf_page-00416",
+        "src-a0c586246888-pdf_page-00417",
+        "src-a0c586246888-pdf_page-00418",
+        "src-a0c586246888-pdf_page-00419",
+        "src-a0c586246888-pdf_page-00420",
+        "src-a0c586246888-pdf_page-00421",
+        "src-a0c586246888-pdf_page-00422",
+        "src-a0c586246888-pdf_page-00423",
+        "src-a0c586246888-pdf_page-00424",
+        "src-a0c586246888-pdf_page-00425",
+        "src-a0c586246888-pdf_page-00426",
+        "src-a0c586246888-pdf_page-00427",
+        "src-a0c586246888-pdf_page-00428",
+        "src-a0c586246888-pdf_page-00429",
+        "src-a0c586246888-pdf_page-00430",
+        "src-a0c586246888-pdf_page-00431",
+        "src-a0c586246888-pdf_page-00432",
+        "src-a0c586246888-pdf_page-00433",
+        "src-a0c586246888-pdf_page-00434",
+        "src-a0c586246888-pdf_page-00435",
+        "src-a0c586246888-pdf_page-00436",
+        "src-a0c586246888-pdf_page-00437",
+        "src-a0c586246888-pdf_page-00438",
+        "src-a0c586246888-pdf_page-00439",
+        "src-a0c586246888-pdf_page-00440",
+        "src-a0c586246888-pdf_page-00441",
+        "src-a0c586246888-pdf_page-00442",
+        "src-a0c586246888-pdf_page-00443",
+        "src-a0c586246888-pdf_page-00444",
+        "src-a0c586246888-pdf_page-00445",
+        "src-a0c586246888-pdf_page-00446",
+        "src-a0c586246888-pdf_page-00447",
+        "src-a0c586246888-pdf_page-00448",
+        "src-a0c586246888-pdf_page-00449",
+        "src-a0c586246888-pdf_page-00450",
+        "src-a0c586246888-pdf_page-00451",
+        "src-a0c586246888-pdf_page-00452",
+        "src-a0c586246888-pdf_page-00453",
+        "src-a0c586246888-pdf_page-00454",
+        "src-a0c586246888-pdf_page-00455",
+        "src-a0c586246888-pdf_page-00456",
+        "src-a0c586246888-pdf_page-00457",
+        "src-a0c586246888-pdf_page-00458",
+        "src-a0c586246888-pdf_page-00459",
+        "src-a0c586246888-pdf_page-00460",
+        "src-a0c586246888-pdf_page-00461",
+        "src-a0c586246888-pdf_page-00462",
+        "src-a0c586246888-pdf_page-00463",
+        "src-a0c586246888-pdf_page-00464",
+        "src-a0c586246888-pdf_page-00465",
+        "src-a0c586246888-pdf_page-00466",
+        "src-a0c586246888-pdf_page-00467",
+        "src-a0c586246888-pdf_page-00468",
+        "src-a0c586246888-pdf_page-00469",
+        "src-a0c586246888-pdf_page-00470",
+        "src-a0c586246888-pdf_page-00471",
+        "src-a0c586246888-pdf_page-00472",
+        "src-a0c586246888-pdf_page-00473",
+        "src-a0c586246888-pdf_page-00474",
+        "src-a0c586246888-pdf_page-00475",
+        "src-a0c586246888-pdf_page-00476",
+        "src-a0c586246888-pdf_page-00477",
+        "src-a0c586246888-pdf_page-00478",
+        "src-a0c586246888-pdf_page-00479",
+        "src-a0c586246888-pdf_page-00480",
+        "src-a0c586246888-pdf_page-00481",
+        "src-a0c586246888-pdf_page-00482"
+      ],
+      "status": "scanned",
+      "note": "已扫描附录结构与各表单条目（摄入表单、症状清单、句子完成表、依恋模式、症状对照、生命脚本、随访计划）；书目与索引仅确认结构作用，未逐条阅读。"
+    }
+  ],
+  "evidence": [
+    {
+      "source": "第10章《Adult and Couple Attachment》 · 原书第256–259页 · PDF第258–261页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00258",
+        "src-a0c586246888-pdf_page-00259",
+        "src-a0c586246888-pdf_page-00260",
+        "src-a0c586246888-pdf_page-00261"
+      ],
+      "quote": "comfortable depending on others, and having partners depend on them.",
+      "checked": true
+    },
+    {
+      "source": "第10章《Adult and Couple Attachment》 · 原书第256–262页 · PDF第258–264页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00258",
+        "src-a0c586246888-pdf_page-00259",
+        "src-a0c586246888-pdf_page-00260",
+        "src-a0c586246888-pdf_page-00261",
+        "src-a0c586246888-pdf_page-00262",
+        "src-a0c586246888-pdf_page-00263",
+        "src-a0c586246888-pdf_page-00264"
+      ],
+      "quote": "comfortable depending on others, and having partners depend on them.",
+      "checked": true
+    },
+    {
+      "source": "第10章《Adult and Couple Attachment》 · 原书第256–267页 · PDF第258–269页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00258",
+        "src-a0c586246888-pdf_page-00259",
+        "src-a0c586246888-pdf_page-00260",
+        "src-a0c586246888-pdf_page-00261",
+        "src-a0c586246888-pdf_page-00262",
+        "src-a0c586246888-pdf_page-00263",
+        "src-a0c586246888-pdf_page-00264",
+        "src-a0c586246888-pdf_page-00265",
+        "src-a0c586246888-pdf_page-00266",
+        "src-a0c586246888-pdf_page-00267",
+        "src-a0c586246888-pdf_page-00268",
+        "src-a0c586246888-pdf_page-00269"
+      ],
+      "quote": "comfortable depending on others, and having partners depend on them.",
+      "checked": true
+    },
+    {
+      "source": "第10章《Adult and Couple Attachment》 · 原书第256–279页 · PDF第258–281页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00258",
+        "src-a0c586246888-pdf_page-00259",
+        "src-a0c586246888-pdf_page-00260",
+        "src-a0c586246888-pdf_page-00261",
+        "src-a0c586246888-pdf_page-00262",
+        "src-a0c586246888-pdf_page-00263",
+        "src-a0c586246888-pdf_page-00264",
+        "src-a0c586246888-pdf_page-00265",
+        "src-a0c586246888-pdf_page-00266",
+        "src-a0c586246888-pdf_page-00267",
+        "src-a0c586246888-pdf_page-00268",
+        "src-a0c586246888-pdf_page-00269",
+        "src-a0c586246888-pdf_page-00270",
+        "src-a0c586246888-pdf_page-00271",
+        "src-a0c586246888-pdf_page-00272",
+        "src-a0c586246888-pdf_page-00273",
+        "src-a0c586246888-pdf_page-00274",
+        "src-a0c586246888-pdf_page-00275",
+        "src-a0c586246888-pdf_page-00276",
+        "src-a0c586246888-pdf_page-00277",
+        "src-a0c586246888-pdf_page-00278",
+        "src-a0c586246888-pdf_page-00279",
+        "src-a0c586246888-pdf_page-00280",
+        "src-a0c586246888-pdf_page-00281"
+      ],
+      "quote": "comfortable depending on others, and having partners depend on them.",
+      "checked": true
+    },
+    {
+      "source": "第10章《Adult and Couple Attachment》 · 原书第258–267页 · PDF第260–269页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00260",
+        "src-a0c586246888-pdf_page-00261",
+        "src-a0c586246888-pdf_page-00262",
+        "src-a0c586246888-pdf_page-00263",
+        "src-a0c586246888-pdf_page-00264",
+        "src-a0c586246888-pdf_page-00265",
+        "src-a0c586246888-pdf_page-00266",
+        "src-a0c586246888-pdf_page-00267",
+        "src-a0c586246888-pdf_page-00268",
+        "src-a0c586246888-pdf_page-00269"
+      ],
+      "quote": "and lovable; I feel safe”; expects and anticipates positive relationship.",
+      "checked": true
+    },
+    {
+      "source": "第10章《Adult and Couple Attachment》 · 原书第258页 · PDF第260页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00260"
+      ],
+      "quote": "and lovable; I feel safe”; expects and anticipates positive relationship.",
+      "checked": true
+    },
+    {
+      "source": "第10章《Adult and Couple Attachment》 · 原书第265–268页 · PDF第267–270页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00267",
+        "src-a0c586246888-pdf_page-00268",
+        "src-a0c586246888-pdf_page-00269",
+        "src-a0c586246888-pdf_page-00270"
+      ],
+      "quote": "the activity in the hypothalamus was negligible, indicating no stress response.",
+      "checked": true
+    },
+    {
+      "source": "第11章《Intensive Outpatient Psychotherapy》 · 原书第280–284页 · PDF第282–286页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00282",
+        "src-a0c586246888-pdf_page-00283",
+        "src-a0c586246888-pdf_page-00284",
+        "src-a0c586246888-pdf_page-00285",
+        "src-a0c586246888-pdf_page-00286"
+      ],
+      "quote": "of purpose, focus, and determination to achieve goals and improve lives.",
+      "checked": true
+    },
+    {
+      "source": "第11章《Intensive Outpatient Psychotherapy》 · 原书第280–314页 · PDF第282–316页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00282",
+        "src-a0c586246888-pdf_page-00283",
+        "src-a0c586246888-pdf_page-00284",
+        "src-a0c586246888-pdf_page-00285",
+        "src-a0c586246888-pdf_page-00286",
+        "src-a0c586246888-pdf_page-00287",
+        "src-a0c586246888-pdf_page-00288",
+        "src-a0c586246888-pdf_page-00289",
+        "src-a0c586246888-pdf_page-00290",
+        "src-a0c586246888-pdf_page-00291",
+        "src-a0c586246888-pdf_page-00292",
+        "src-a0c586246888-pdf_page-00293",
+        "src-a0c586246888-pdf_page-00294",
+        "src-a0c586246888-pdf_page-00295",
+        "src-a0c586246888-pdf_page-00296",
+        "src-a0c586246888-pdf_page-00297",
+        "src-a0c586246888-pdf_page-00298",
+        "src-a0c586246888-pdf_page-00299",
+        "src-a0c586246888-pdf_page-00300",
+        "src-a0c586246888-pdf_page-00301",
+        "src-a0c586246888-pdf_page-00302",
+        "src-a0c586246888-pdf_page-00303",
+        "src-a0c586246888-pdf_page-00304",
+        "src-a0c586246888-pdf_page-00305",
+        "src-a0c586246888-pdf_page-00306",
+        "src-a0c586246888-pdf_page-00307",
+        "src-a0c586246888-pdf_page-00308",
+        "src-a0c586246888-pdf_page-00309",
+        "src-a0c586246888-pdf_page-00310",
+        "src-a0c586246888-pdf_page-00311",
+        "src-a0c586246888-pdf_page-00312",
+        "src-a0c586246888-pdf_page-00313",
+        "src-a0c586246888-pdf_page-00314",
+        "src-a0c586246888-pdf_page-00315",
+        "src-a0c586246888-pdf_page-00316"
+      ],
+      "quote": "of purpose, focus, and determination to achieve goals and improve lives.",
+      "checked": true
+    },
+    {
+      "source": "第11章《Intensive Outpatient Psychotherapy》 · 原书第284–314页 · PDF第286–316页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00286",
+        "src-a0c586246888-pdf_page-00287",
+        "src-a0c586246888-pdf_page-00288",
+        "src-a0c586246888-pdf_page-00289",
+        "src-a0c586246888-pdf_page-00290",
+        "src-a0c586246888-pdf_page-00291",
+        "src-a0c586246888-pdf_page-00292",
+        "src-a0c586246888-pdf_page-00293",
+        "src-a0c586246888-pdf_page-00294",
+        "src-a0c586246888-pdf_page-00295",
+        "src-a0c586246888-pdf_page-00296",
+        "src-a0c586246888-pdf_page-00297",
+        "src-a0c586246888-pdf_page-00298",
+        "src-a0c586246888-pdf_page-00299",
+        "src-a0c586246888-pdf_page-00300",
+        "src-a0c586246888-pdf_page-00301",
+        "src-a0c586246888-pdf_page-00302",
+        "src-a0c586246888-pdf_page-00303",
+        "src-a0c586246888-pdf_page-00304",
+        "src-a0c586246888-pdf_page-00305",
+        "src-a0c586246888-pdf_page-00306",
+        "src-a0c586246888-pdf_page-00307",
+        "src-a0c586246888-pdf_page-00308",
+        "src-a0c586246888-pdf_page-00309",
+        "src-a0c586246888-pdf_page-00310",
+        "src-a0c586246888-pdf_page-00311",
+        "src-a0c586246888-pdf_page-00312",
+        "src-a0c586246888-pdf_page-00313",
+        "src-a0c586246888-pdf_page-00314",
+        "src-a0c586246888-pdf_page-00315",
+        "src-a0c586246888-pdf_page-00316"
+      ],
+      "quote": "Parents often present as highly frustrated, desperate, wary, and exhausted.",
+      "checked": true
+    },
+    {
+      "source": "第11章《Intensive Outpatient Psychotherapy》 · 原书第296–298页 · PDF第298–300页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00298",
+        "src-a0c586246888-pdf_page-00299",
+        "src-a0c586246888-pdf_page-00300"
+      ],
+      "quote": "when dealing with painful and anxiety-provoking issues, events, and memories.",
+      "checked": true
+    },
+    {
+      "source": "第12章《Corrective Attachment Parenting》 · 原书第315–318页 · PDF第317–320页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00317",
+        "src-a0c586246888-pdf_page-00318",
+        "src-a0c586246888-pdf_page-00319",
+        "src-a0c586246888-pdf_page-00320"
+      ],
+      "quote": "Maintaining a positive attitude is a key to success, but not easy to do.",
+      "checked": true
+    },
+    {
+      "source": "第12章《Corrective Attachment Parenting》 · 原书第315–347页 · PDF第317–349页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00317",
+        "src-a0c586246888-pdf_page-00318",
+        "src-a0c586246888-pdf_page-00319",
+        "src-a0c586246888-pdf_page-00320",
+        "src-a0c586246888-pdf_page-00321",
+        "src-a0c586246888-pdf_page-00322",
+        "src-a0c586246888-pdf_page-00323",
+        "src-a0c586246888-pdf_page-00324",
+        "src-a0c586246888-pdf_page-00325",
+        "src-a0c586246888-pdf_page-00326",
+        "src-a0c586246888-pdf_page-00327",
+        "src-a0c586246888-pdf_page-00328",
+        "src-a0c586246888-pdf_page-00329",
+        "src-a0c586246888-pdf_page-00330",
+        "src-a0c586246888-pdf_page-00331",
+        "src-a0c586246888-pdf_page-00332",
+        "src-a0c586246888-pdf_page-00333",
+        "src-a0c586246888-pdf_page-00334",
+        "src-a0c586246888-pdf_page-00335",
+        "src-a0c586246888-pdf_page-00336",
+        "src-a0c586246888-pdf_page-00337",
+        "src-a0c586246888-pdf_page-00338",
+        "src-a0c586246888-pdf_page-00339",
+        "src-a0c586246888-pdf_page-00340",
+        "src-a0c586246888-pdf_page-00341",
+        "src-a0c586246888-pdf_page-00342",
+        "src-a0c586246888-pdf_page-00343",
+        "src-a0c586246888-pdf_page-00344",
+        "src-a0c586246888-pdf_page-00345",
+        "src-a0c586246888-pdf_page-00346",
+        "src-a0c586246888-pdf_page-00347",
+        "src-a0c586246888-pdf_page-00348",
+        "src-a0c586246888-pdf_page-00349"
+      ],
+      "quote": "Maintaining a positive attitude is a key to success, but not easy to do.",
+      "checked": true
+    },
+    {
+      "source": "第12章《Corrective Attachment Parenting》 · 原书第318–323页 · PDF第320–325页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00320",
+        "src-a0c586246888-pdf_page-00321",
+        "src-a0c586246888-pdf_page-00322",
+        "src-a0c586246888-pdf_page-00323",
+        "src-a0c586246888-pdf_page-00324",
+        "src-a0c586246888-pdf_page-00325"
+      ],
+      "quote": "ingredients of creating a healing environment are described in this section.",
+      "checked": true
+    },
+    {
+      "source": "第12章《Corrective Attachment Parenting》 · 原书第321–331页 · PDF第323–333页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00323",
+        "src-a0c586246888-pdf_page-00324",
+        "src-a0c586246888-pdf_page-00325",
+        "src-a0c586246888-pdf_page-00326",
+        "src-a0c586246888-pdf_page-00327",
+        "src-a0c586246888-pdf_page-00328",
+        "src-a0c586246888-pdf_page-00329",
+        "src-a0c586246888-pdf_page-00330",
+        "src-a0c586246888-pdf_page-00331",
+        "src-a0c586246888-pdf_page-00332",
+        "src-a0c586246888-pdf_page-00333"
+      ],
+      "quote": "and did not develop the ability to regulate their emotions and impulses.",
+      "checked": true
+    },
+    {
+      "source": "第12章《Corrective Attachment Parenting》 · 原书第321页 · PDF第323页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00323"
+      ],
+      "quote": "and did not develop the ability to regulate their emotions and impulses.",
+      "checked": true
+    },
+    {
+      "source": "第12章《Corrective Attachment Parenting》 · 原书第323–327页 · PDF第325–329页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00325",
+        "src-a0c586246888-pdf_page-00326",
+        "src-a0c586246888-pdf_page-00327",
+        "src-a0c586246888-pdf_page-00328",
+        "src-a0c586246888-pdf_page-00329"
+      ],
+      "quote": "Confidence is the ability to rely on yourself with assuredness and certainty.",
+      "checked": true
+    },
+    {
+      "source": "第12章《Corrective Attachment Parenting》 · 原书第323–331页 · PDF第325–333页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00325",
+        "src-a0c586246888-pdf_page-00326",
+        "src-a0c586246888-pdf_page-00327",
+        "src-a0c586246888-pdf_page-00328",
+        "src-a0c586246888-pdf_page-00329",
+        "src-a0c586246888-pdf_page-00330",
+        "src-a0c586246888-pdf_page-00331",
+        "src-a0c586246888-pdf_page-00332",
+        "src-a0c586246888-pdf_page-00333"
+      ],
+      "quote": "Confidence is the ability to rely on yourself with assuredness and certainty.",
+      "checked": true
+    },
+    {
+      "source": "第12章《Corrective Attachment Parenting》 · 原书第325–326页 · PDF第327–328页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00327",
+        "src-a0c586246888-pdf_page-00328"
+      ],
+      "quote": "learn from mistakes, and the development of an inner voice of self-control.",
+      "checked": true
+    },
+    {
+      "source": "第12章《Corrective Attachment Parenting》 · 原书第326–328页 · PDF第328–330页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00328",
+        "src-a0c586246888-pdf_page-00329",
+        "src-a0c586246888-pdf_page-00330"
+      ],
+      "quote": "avoid conflict because they are worn out and take the path of least resistance.",
+      "checked": true
+    },
+    {
+      "source": "第12章《Corrective Attachment Parenting》 · 原书第326页 · PDF第328页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00328"
+      ],
+      "quote": "avoid conflict because they are worn out and take the path of least resistance.",
+      "checked": true
+    },
+    {
+      "source": "第12章《Corrective Attachment Parenting》 · 原书第327–330页 · PDF第329–332页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00329",
+        "src-a0c586246888-pdf_page-00330",
+        "src-a0c586246888-pdf_page-00331",
+        "src-a0c586246888-pdf_page-00332"
+      ],
+      "quote": "response, and when patterns are repeating, despite their best efforts to change.",
+      "checked": true
+    },
+    {
+      "source": "第12章《Corrective Attachment Parenting》 · 原书第327–335页 · PDF第329–337页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00329",
+        "src-a0c586246888-pdf_page-00330",
+        "src-a0c586246888-pdf_page-00331",
+        "src-a0c586246888-pdf_page-00332",
+        "src-a0c586246888-pdf_page-00333",
+        "src-a0c586246888-pdf_page-00334",
+        "src-a0c586246888-pdf_page-00335",
+        "src-a0c586246888-pdf_page-00336",
+        "src-a0c586246888-pdf_page-00337"
+      ],
+      "quote": "response, and when patterns are repeating, despite their best efforts to change.",
+      "checked": true
+    },
+    {
+      "source": "第12章《Corrective Attachment Parenting》 · 原书第328–329页 · PDF第330–331页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00330",
+        "src-a0c586246888-pdf_page-00331"
+      ],
+      "quote": "and demoralized. Healing parents are not manipulated into old patterns.",
+      "checked": true
+    },
+    {
+      "source": "第12章《Corrective Attachment Parenting》 · 原书第328–330页 · PDF第330–332页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00330",
+        "src-a0c586246888-pdf_page-00331",
+        "src-a0c586246888-pdf_page-00332"
+      ],
+      "quote": "and demoralized. Healing parents are not manipulated into old patterns.",
+      "checked": true
+    },
+    {
+      "source": "第12章《Corrective Attachment Parenting》 · 原书第330–333页 · PDF第332–335页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00332",
+        "src-a0c586246888-pdf_page-00333",
+        "src-a0c586246888-pdf_page-00334",
+        "src-a0c586246888-pdf_page-00335"
+      ],
+      "quote": "problem-solving; understands the role and attitude of a healing parent.",
+      "checked": true
+    },
+    {
+      "source": "第13章《Foster Care, Adoption, and the Child Welfare System》 · 原书第348–353页 · PDF第350–355页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00350",
+        "src-a0c586246888-pdf_page-00351",
+        "src-a0c586246888-pdf_page-00352",
+        "src-a0c586246888-pdf_page-00353",
+        "src-a0c586246888-pdf_page-00354",
+        "src-a0c586246888-pdf_page-00355"
+      ],
+      "quote": "neighborhoods; and anxious and disorganized attachments with caregivers.",
+      "checked": true
+    },
+    {
+      "source": "第13章《Foster Care, Adoption, and the Child Welfare System》 · 原书第348–378页 · PDF第350–380页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00350",
+        "src-a0c586246888-pdf_page-00351",
+        "src-a0c586246888-pdf_page-00352",
+        "src-a0c586246888-pdf_page-00353",
+        "src-a0c586246888-pdf_page-00354",
+        "src-a0c586246888-pdf_page-00355",
+        "src-a0c586246888-pdf_page-00356",
+        "src-a0c586246888-pdf_page-00357",
+        "src-a0c586246888-pdf_page-00358",
+        "src-a0c586246888-pdf_page-00359",
+        "src-a0c586246888-pdf_page-00360",
+        "src-a0c586246888-pdf_page-00361",
+        "src-a0c586246888-pdf_page-00362",
+        "src-a0c586246888-pdf_page-00363",
+        "src-a0c586246888-pdf_page-00364",
+        "src-a0c586246888-pdf_page-00365",
+        "src-a0c586246888-pdf_page-00366",
+        "src-a0c586246888-pdf_page-00367",
+        "src-a0c586246888-pdf_page-00368",
+        "src-a0c586246888-pdf_page-00369",
+        "src-a0c586246888-pdf_page-00370",
+        "src-a0c586246888-pdf_page-00371",
+        "src-a0c586246888-pdf_page-00372",
+        "src-a0c586246888-pdf_page-00373",
+        "src-a0c586246888-pdf_page-00374",
+        "src-a0c586246888-pdf_page-00375",
+        "src-a0c586246888-pdf_page-00376",
+        "src-a0c586246888-pdf_page-00377",
+        "src-a0c586246888-pdf_page-00378",
+        "src-a0c586246888-pdf_page-00379",
+        "src-a0c586246888-pdf_page-00380"
+      ],
+      "quote": "neighborhoods; and anxious and disorganized attachments with caregivers.",
+      "checked": true
+    },
+    {
+      "source": "第13章《Foster Care, Adoption, and the Child Welfare System》 · 原书第352–352页 · PDF第354–354页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00354"
+      ],
+      "quote": "because it is difficult to find families willing to accept a sibling group.",
+      "checked": true
+    },
+    {
+      "source": "第13章《Foster Care, Adoption, and the Child Welfare System》 · 原书第352–371页 · PDF第354–373页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00354",
+        "src-a0c586246888-pdf_page-00355",
+        "src-a0c586246888-pdf_page-00356",
+        "src-a0c586246888-pdf_page-00357",
+        "src-a0c586246888-pdf_page-00358",
+        "src-a0c586246888-pdf_page-00359",
+        "src-a0c586246888-pdf_page-00360",
+        "src-a0c586246888-pdf_page-00361",
+        "src-a0c586246888-pdf_page-00362",
+        "src-a0c586246888-pdf_page-00363",
+        "src-a0c586246888-pdf_page-00364",
+        "src-a0c586246888-pdf_page-00365",
+        "src-a0c586246888-pdf_page-00366",
+        "src-a0c586246888-pdf_page-00367",
+        "src-a0c586246888-pdf_page-00368",
+        "src-a0c586246888-pdf_page-00369",
+        "src-a0c586246888-pdf_page-00370",
+        "src-a0c586246888-pdf_page-00371",
+        "src-a0c586246888-pdf_page-00372",
+        "src-a0c586246888-pdf_page-00373"
+      ],
+      "quote": "because it is difficult to find families willing to accept a sibling group.",
+      "checked": true
+    },
+    {
+      "source": "第13章《Foster Care, Adoption, and the Child Welfare System》 · 原书第374–378页 · PDF第376–380页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00376",
+        "src-a0c586246888-pdf_page-00377",
+        "src-a0c586246888-pdf_page-00378",
+        "src-a0c586246888-pdf_page-00379",
+        "src-a0c586246888-pdf_page-00380"
+      ],
+      "quote": "exploration, and effective communication with parents.",
+      "checked": true
+    },
+    {
+      "source": "第1章《Introduction》 · 原书第14–18页 · PDF第16–20页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00016",
+        "src-a0c586246888-pdf_page-00017",
+        "src-a0c586246888-pdf_page-00018",
+        "src-a0c586246888-pdf_page-00019",
+        "src-a0c586246888-pdf_page-00020"
+      ],
+      "quote": "can lead to many problems in childhood and, in fact, throughout life.",
+      "checked": true
+    },
+    {
+      "source": "第1章《Introduction》 · 原书第14–30页 · PDF第16–32页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00016",
+        "src-a0c586246888-pdf_page-00017",
+        "src-a0c586246888-pdf_page-00018",
+        "src-a0c586246888-pdf_page-00019",
+        "src-a0c586246888-pdf_page-00020",
+        "src-a0c586246888-pdf_page-00021",
+        "src-a0c586246888-pdf_page-00022",
+        "src-a0c586246888-pdf_page-00023",
+        "src-a0c586246888-pdf_page-00024",
+        "src-a0c586246888-pdf_page-00025",
+        "src-a0c586246888-pdf_page-00026",
+        "src-a0c586246888-pdf_page-00027",
+        "src-a0c586246888-pdf_page-00028",
+        "src-a0c586246888-pdf_page-00029",
+        "src-a0c586246888-pdf_page-00030",
+        "src-a0c586246888-pdf_page-00031",
+        "src-a0c586246888-pdf_page-00032"
+      ],
+      "quote": "can lead to many problems in childhood and, in fact, throughout life.",
+      "checked": true
+    },
+    {
+      "source": "第1章《Introduction》 · 原书第15–15页 · PDF第17–17页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00017"
+      ],
+      "quote": "establishment of a secure attachment between infant and primary caregiver.",
+      "checked": true
+    },
+    {
+      "source": "第1章《Introduction》 · 原书第15–16页 · PDF第17–18页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00017",
+        "src-a0c586246888-pdf_page-00018"
+      ],
+      "quote": "establishment of a secure attachment between infant and primary caregiver.",
+      "checked": true
+    },
+    {
+      "source": "第1章《Introduction》 · 原书第19–19页 · PDF第21–21页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00021"
+      ],
+      "quote": "responsibilities well into their child’s adult years.",
+      "checked": true
+    },
+    {
+      "source": "第1章《Introduction》 · 原书第20–23页 · PDF第22–25页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00022",
+        "src-a0c586246888-pdf_page-00023",
+        "src-a0c586246888-pdf_page-00024",
+        "src-a0c586246888-pdf_page-00025"
+      ],
+      "quote": "on the family as it interacts with external social influences.",
+      "checked": true
+    },
+    {
+      "source": "第1章《Introduction》 · 原书第22–22页 · PDF第24–24页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00024"
+      ],
+      "quote": "choices, perspectives, options, behaviors, coping skills, and relationships.",
+      "checked": true
+    },
+    {
+      "source": "第1章《Introduction》 · 原书第25–26页 · PDF第27–28页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00027",
+        "src-a0c586246888-pdf_page-00028"
+      ],
+      "quote": "and compatible with the latest research findings and advances in the field.",
+      "checked": true
+    },
+    {
+      "source": "第1章《Introduction》 · 原书第26–28页 · PDF第28–30页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00028",
+        "src-a0c586246888-pdf_page-00029",
+        "src-a0c586246888-pdf_page-00030"
+      ],
+      "quote": "parents must be willing to “look in the mirror” in order to be a healing (i.e.",
+      "checked": true
+    },
+    {
+      "source": "第1章《Introduction》 · 原书第26页 · PDF第28页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00028"
+      ],
+      "quote": "parents must be willing to “look in the mirror” in order to be a healing (i.e.",
+      "checked": true
+    },
+    {
+      "source": "第1章《Introduction》 · 原书第27–27页 · PDF第29–29页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00029"
+      ],
+      "quote": "cover the basic concepts and skills of Corrective Attachment Parenting.",
+      "checked": true
+    },
+    {
+      "source": "第2章《Historical Perspective》 · 原书第31–41页 · PDF第33–43页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00033",
+        "src-a0c586246888-pdf_page-00034",
+        "src-a0c586246888-pdf_page-00035",
+        "src-a0c586246888-pdf_page-00036",
+        "src-a0c586246888-pdf_page-00037",
+        "src-a0c586246888-pdf_page-00038",
+        "src-a0c586246888-pdf_page-00039",
+        "src-a0c586246888-pdf_page-00040",
+        "src-a0c586246888-pdf_page-00041",
+        "src-a0c586246888-pdf_page-00042",
+        "src-a0c586246888-pdf_page-00043"
+      ],
+      "quote": "your lap. If you must, kiss them once on the forehead when they say goodnight.",
+      "checked": true
+    },
+    {
+      "source": "第2章《Historical Perspective》 · 原书第33–35页 · PDF第35–37页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00035",
+        "src-a0c586246888-pdf_page-00036",
+        "src-a0c586246888-pdf_page-00037"
+      ],
+      "quote": "Bakwin 1942; Spitz 1947; cited in Karen 1994, pp.15–24).",
+      "checked": true
+    },
+    {
+      "source": "第2章《Historical Perspective》 · 原书第33–36页 · PDF第35–38页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00035",
+        "src-a0c586246888-pdf_page-00036",
+        "src-a0c586246888-pdf_page-00037",
+        "src-a0c586246888-pdf_page-00038"
+      ],
+      "quote": "Bakwin 1942; Spitz 1947; cited in Karen 1994, pp.15–24).",
+      "checked": true
+    },
+    {
+      "source": "第2章《Historical Perspective》 · 原书第34–41页 · PDF第36–43页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00036",
+        "src-a0c586246888-pdf_page-00037",
+        "src-a0c586246888-pdf_page-00038",
+        "src-a0c586246888-pdf_page-00039",
+        "src-a0c586246888-pdf_page-00040",
+        "src-a0c586246888-pdf_page-00041",
+        "src-a0c586246888-pdf_page-00042",
+        "src-a0c586246888-pdf_page-00043"
+      ],
+      "quote": "to have adapted to institutionalized life. Feelings for the parents “died”",
+      "checked": true
+    },
+    {
+      "source": "第2章《Historical Perspective》 · 原书第36–41页 · PDF第38–43页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00038",
+        "src-a0c586246888-pdf_page-00039",
+        "src-a0c586246888-pdf_page-00040",
+        "src-a0c586246888-pdf_page-00041",
+        "src-a0c586246888-pdf_page-00042",
+        "src-a0c586246888-pdf_page-00043"
+      ],
+      "quote": "baby (see Chapter 5 for more information on disorganized attachment).",
+      "checked": true
+    },
+    {
+      "source": "第3章《Roots of Attachment》 · 原书第42–74页 · PDF第44–76页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00044",
+        "src-a0c586246888-pdf_page-00045",
+        "src-a0c586246888-pdf_page-00046",
+        "src-a0c586246888-pdf_page-00047",
+        "src-a0c586246888-pdf_page-00048",
+        "src-a0c586246888-pdf_page-00049",
+        "src-a0c586246888-pdf_page-00050",
+        "src-a0c586246888-pdf_page-00051",
+        "src-a0c586246888-pdf_page-00052",
+        "src-a0c586246888-pdf_page-00053",
+        "src-a0c586246888-pdf_page-00054",
+        "src-a0c586246888-pdf_page-00055",
+        "src-a0c586246888-pdf_page-00056",
+        "src-a0c586246888-pdf_page-00057",
+        "src-a0c586246888-pdf_page-00058",
+        "src-a0c586246888-pdf_page-00059",
+        "src-a0c586246888-pdf_page-00060",
+        "src-a0c586246888-pdf_page-00061",
+        "src-a0c586246888-pdf_page-00062",
+        "src-a0c586246888-pdf_page-00063",
+        "src-a0c586246888-pdf_page-00064",
+        "src-a0c586246888-pdf_page-00065",
+        "src-a0c586246888-pdf_page-00066",
+        "src-a0c586246888-pdf_page-00067",
+        "src-a0c586246888-pdf_page-00068",
+        "src-a0c586246888-pdf_page-00069",
+        "src-a0c586246888-pdf_page-00070",
+        "src-a0c586246888-pdf_page-00071",
+        "src-a0c586246888-pdf_page-00072",
+        "src-a0c586246888-pdf_page-00073",
+        "src-a0c586246888-pdf_page-00074",
+        "src-a0c586246888-pdf_page-00075",
+        "src-a0c586246888-pdf_page-00076"
+      ],
+      "quote": "the offspring and of the species (Bowlby 1969).",
+      "checked": true
+    },
+    {
+      "source": "第3章《Roots of Attachment》 · 原书第59–61页 · PDF第61–63页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00061",
+        "src-a0c586246888-pdf_page-00062",
+        "src-a0c586246888-pdf_page-00063"
+      ],
+      "quote": "result in deficiencies in cognitive and physical development (Fahlberg 1991).",
+      "checked": true
+    },
+    {
+      "source": "第3章《Roots of Attachment》 · 原书第59–68页 · PDF第61–70页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00061",
+        "src-a0c586246888-pdf_page-00062",
+        "src-a0c586246888-pdf_page-00063",
+        "src-a0c586246888-pdf_page-00064",
+        "src-a0c586246888-pdf_page-00065",
+        "src-a0c586246888-pdf_page-00066",
+        "src-a0c586246888-pdf_page-00067",
+        "src-a0c586246888-pdf_page-00068",
+        "src-a0c586246888-pdf_page-00069",
+        "src-a0c586246888-pdf_page-00070"
+      ],
+      "quote": "result in deficiencies in cognitive and physical development (Fahlberg 1991).",
+      "checked": true
+    },
+    {
+      "source": "第3章《Roots of Attachment》 · 原书第61–68页 · PDF第63–70页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00063",
+        "src-a0c586246888-pdf_page-00064",
+        "src-a0c586246888-pdf_page-00065",
+        "src-a0c586246888-pdf_page-00066",
+        "src-a0c586246888-pdf_page-00067",
+        "src-a0c586246888-pdf_page-00068",
+        "src-a0c586246888-pdf_page-00069",
+        "src-a0c586246888-pdf_page-00070"
+      ],
+      "quote": "• Uses own capacities (e.g., smile, vocalizing, facial expressions) to signal receptivity.",
+      "checked": true
+    },
+    {
+      "source": "第3章《Roots of Attachment》 · 原书第61–74页 · PDF第63–76页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00063",
+        "src-a0c586246888-pdf_page-00064",
+        "src-a0c586246888-pdf_page-00065",
+        "src-a0c586246888-pdf_page-00066",
+        "src-a0c586246888-pdf_page-00067",
+        "src-a0c586246888-pdf_page-00068",
+        "src-a0c586246888-pdf_page-00069",
+        "src-a0c586246888-pdf_page-00070",
+        "src-a0c586246888-pdf_page-00071",
+        "src-a0c586246888-pdf_page-00072",
+        "src-a0c586246888-pdf_page-00073",
+        "src-a0c586246888-pdf_page-00074",
+        "src-a0c586246888-pdf_page-00075",
+        "src-a0c586246888-pdf_page-00076"
+      ],
+      "quote": "• Uses own capacities (e.g., smile, vocalizing, facial expressions) to signal receptivity.",
+      "checked": true
+    },
+    {
+      "source": "第3章《Roots of Attachment》 · 原书第61页 · PDF第63页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00063"
+      ],
+      "quote": "• Uses own capacities (e.g., smile, vocalizing, facial expressions) to signal receptivity.",
+      "checked": true
+    },
+    {
+      "source": "第3章《Roots of Attachment》 · 原书第66–74页 · PDF第68–76页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00068",
+        "src-a0c586246888-pdf_page-00069",
+        "src-a0c586246888-pdf_page-00070",
+        "src-a0c586246888-pdf_page-00071",
+        "src-a0c586246888-pdf_page-00072",
+        "src-a0c586246888-pdf_page-00073",
+        "src-a0c586246888-pdf_page-00074",
+        "src-a0c586246888-pdf_page-00075",
+        "src-a0c586246888-pdf_page-00076"
+      ],
+      "quote": "(e.g., cortisol), and stimulates the release of oxytocin, the “love hormone,”",
+      "checked": true
+    },
+    {
+      "source": "第3章《Roots of Attachment》 · 原书第70–72页 · PDF第72–74页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00072",
+        "src-a0c586246888-pdf_page-00073",
+        "src-a0c586246888-pdf_page-00074"
+      ],
+      "quote": "infant’s needs. The second year of life focuses on both needs and “wants,”",
+      "checked": true
+    },
+    {
+      "source": "第3章《Roots of Attachment》 · 原书第71–74页 · PDF第73–76页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00073",
+        "src-a0c586246888-pdf_page-00074",
+        "src-a0c586246888-pdf_page-00075",
+        "src-a0c586246888-pdf_page-00076"
+      ],
+      "quote": "infants use their attachment figures as a secure base from which to explore.",
+      "checked": true
+    },
+    {
+      "source": "第4章《Personal and Social Competencies: The Attachment Foundation》 · 原书第75–90页 · PDF第77–92页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00077",
+        "src-a0c586246888-pdf_page-00078",
+        "src-a0c586246888-pdf_page-00079",
+        "src-a0c586246888-pdf_page-00080",
+        "src-a0c586246888-pdf_page-00081",
+        "src-a0c586246888-pdf_page-00082",
+        "src-a0c586246888-pdf_page-00083",
+        "src-a0c586246888-pdf_page-00084",
+        "src-a0c586246888-pdf_page-00085",
+        "src-a0c586246888-pdf_page-00086",
+        "src-a0c586246888-pdf_page-00087",
+        "src-a0c586246888-pdf_page-00088",
+        "src-a0c586246888-pdf_page-00089",
+        "src-a0c586246888-pdf_page-00090",
+        "src-a0c586246888-pdf_page-00091",
+        "src-a0c586246888-pdf_page-00092"
+      ],
+      "quote": "• resilience (the ability to handle stress and adversity well).",
+      "checked": true
+    },
+    {
+      "source": "第4章《Personal and Social Competencies: The Attachment Foundation》 · 原书第77–80页 · PDF第79–82页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00079",
+        "src-a0c586246888-pdf_page-00080",
+        "src-a0c586246888-pdf_page-00081",
+        "src-a0c586246888-pdf_page-00082"
+      ],
+      "quote": "• Self: “I am bad, unwanted, worthless, helpless, unlovable.”",
+      "checked": true
+    },
+    {
+      "source": "第4章《Personal and Social Competencies: The Attachment Foundation》 · 原书第78–80页 · PDF第80–82页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00080",
+        "src-a0c586246888-pdf_page-00081",
+        "src-a0c586246888-pdf_page-00082"
+      ],
+      "quote": "attitudes, and behavior: empathy, caring, compassion, kindness, and morality.",
+      "checked": true
+    },
+    {
+      "source": "第4章《Personal and Social Competencies: The Attachment Foundation》 · 原书第80–80页 · PDF第82–82页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00082"
+      ],
+      "quote": "friendships were found to continue through adolescence and into adulthood.",
+      "checked": true
+    },
+    {
+      "source": "第5章《Disrupted Attachment》 · 原书第100–102页 · PDF第102–104页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00102",
+        "src-a0c586246888-pdf_page-00103",
+        "src-a0c586246888-pdf_page-00104"
+      ],
+      "quote": "There are additional factors, of course, that influence parenting behavior.",
+      "checked": true
+    },
+    {
+      "source": "第5章《Disrupted Attachment》 · 原书第106–107页 · PDF第108–109页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00108",
+        "src-a0c586246888-pdf_page-00109"
+      ],
+      "quote": "with their mother at 2 years of age. Neglected children remained angry.",
+      "checked": true
+    },
+    {
+      "source": "第5章《Disrupted Attachment》 · 原书第108–112页 · PDF第110–114页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00110",
+        "src-a0c586246888-pdf_page-00111",
+        "src-a0c586246888-pdf_page-00112",
+        "src-a0c586246888-pdf_page-00113",
+        "src-a0c586246888-pdf_page-00114"
+      ],
+      "quote": "There is a great deal of support for the belief that in the majority of cases,",
+      "checked": true
+    },
+    {
+      "source": "第5章《Disrupted Attachment》 · 原书第121–127页 · PDF第123–129页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00123",
+        "src-a0c586246888-pdf_page-00124",
+        "src-a0c586246888-pdf_page-00125",
+        "src-a0c586246888-pdf_page-00126",
+        "src-a0c586246888-pdf_page-00127",
+        "src-a0c586246888-pdf_page-00128",
+        "src-a0c586246888-pdf_page-00129"
+      ],
+      "quote": "and 3) hyperarousal, involving impulsivity, agitation, and hypervigilance.",
+      "checked": true
+    },
+    {
+      "source": "第5章《Disrupted Attachment》 · 原书第91–129页 · PDF第93–131页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00093",
+        "src-a0c586246888-pdf_page-00094",
+        "src-a0c586246888-pdf_page-00095",
+        "src-a0c586246888-pdf_page-00096",
+        "src-a0c586246888-pdf_page-00097",
+        "src-a0c586246888-pdf_page-00098",
+        "src-a0c586246888-pdf_page-00099",
+        "src-a0c586246888-pdf_page-00100",
+        "src-a0c586246888-pdf_page-00101",
+        "src-a0c586246888-pdf_page-00102",
+        "src-a0c586246888-pdf_page-00103",
+        "src-a0c586246888-pdf_page-00104",
+        "src-a0c586246888-pdf_page-00105",
+        "src-a0c586246888-pdf_page-00106",
+        "src-a0c586246888-pdf_page-00107",
+        "src-a0c586246888-pdf_page-00108",
+        "src-a0c586246888-pdf_page-00109",
+        "src-a0c586246888-pdf_page-00110",
+        "src-a0c586246888-pdf_page-00111",
+        "src-a0c586246888-pdf_page-00112",
+        "src-a0c586246888-pdf_page-00113",
+        "src-a0c586246888-pdf_page-00114",
+        "src-a0c586246888-pdf_page-00115",
+        "src-a0c586246888-pdf_page-00116",
+        "src-a0c586246888-pdf_page-00117",
+        "src-a0c586246888-pdf_page-00118",
+        "src-a0c586246888-pdf_page-00119",
+        "src-a0c586246888-pdf_page-00120",
+        "src-a0c586246888-pdf_page-00121",
+        "src-a0c586246888-pdf_page-00122",
+        "src-a0c586246888-pdf_page-00123",
+        "src-a0c586246888-pdf_page-00124",
+        "src-a0c586246888-pdf_page-00125",
+        "src-a0c586246888-pdf_page-00126",
+        "src-a0c586246888-pdf_page-00127",
+        "src-a0c586246888-pdf_page-00128",
+        "src-a0c586246888-pdf_page-00129",
+        "src-a0c586246888-pdf_page-00130",
+        "src-a0c586246888-pdf_page-00131"
+      ],
+      "quote": "the “marshmallow test,” demonstrated the importance of impulse control.",
+      "checked": true
+    },
+    {
+      "source": "第5章《Disrupted Attachment》 · 原书第91–95页 · PDF第93–97页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00093",
+        "src-a0c586246888-pdf_page-00094",
+        "src-a0c586246888-pdf_page-00095",
+        "src-a0c586246888-pdf_page-00096",
+        "src-a0c586246888-pdf_page-00097"
+      ],
+      "quote": "the “marshmallow test,” demonstrated the importance of impulse control.",
+      "checked": true
+    },
+    {
+      "source": "第5章《Disrupted Attachment》 · 原书第99–100页 · PDF第101–102页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00101",
+        "src-a0c586246888-pdf_page-00102"
+      ],
+      "quote": "to their infant’s cues (e.g., laughing when the baby is in distress) (Main et al.",
+      "checked": true
+    },
+    {
+      "source": "第5章《Disrupted Attachment》 · 原书第99–101页 · PDF第101–103页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00101",
+        "src-a0c586246888-pdf_page-00102",
+        "src-a0c586246888-pdf_page-00103"
+      ],
+      "quote": "to their infant’s cues (e.g., laughing when the baby is in distress) (Main et al.",
+      "checked": true
+    },
+    {
+      "source": "第5章《Disrupted Attachment》 · 原书第99–102页 · PDF第101–104页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00101",
+        "src-a0c586246888-pdf_page-00102",
+        "src-a0c586246888-pdf_page-00103",
+        "src-a0c586246888-pdf_page-00104"
+      ],
+      "quote": "to their infant’s cues (e.g., laughing when the baby is in distress) (Main et al.",
+      "checked": true
+    },
+    {
+      "source": "第5章《Disrupted Attachment》 · 原书第99页 · PDF第101页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00101"
+      ],
+      "quote": "to their infant’s cues (e.g., laughing when the baby is in distress) (Main et al.",
+      "checked": true
+    },
+    {
+      "source": "第6章《Assessment》 · 原书第130–133页 · PDF第132–135页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00132",
+        "src-a0c586246888-pdf_page-00133",
+        "src-a0c586246888-pdf_page-00134",
+        "src-a0c586246888-pdf_page-00135"
+      ],
+      "quote": "understanding of the child and family as is possible (Levy and Orlans 1995).",
+      "checked": true
+    },
+    {
+      "source": "第6章《Assessment》 · 原书第130–134页 · PDF第132–136页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00132",
+        "src-a0c586246888-pdf_page-00133",
+        "src-a0c586246888-pdf_page-00134",
+        "src-a0c586246888-pdf_page-00135",
+        "src-a0c586246888-pdf_page-00136"
+      ],
+      "quote": "understanding of the child and family as is possible (Levy and Orlans 1995).",
+      "checked": true
+    },
+    {
+      "source": "第6章《Assessment》 · 原书第130–163页 · PDF第132–165页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00132",
+        "src-a0c586246888-pdf_page-00133",
+        "src-a0c586246888-pdf_page-00134",
+        "src-a0c586246888-pdf_page-00135",
+        "src-a0c586246888-pdf_page-00136",
+        "src-a0c586246888-pdf_page-00137",
+        "src-a0c586246888-pdf_page-00138",
+        "src-a0c586246888-pdf_page-00139",
+        "src-a0c586246888-pdf_page-00140",
+        "src-a0c586246888-pdf_page-00141",
+        "src-a0c586246888-pdf_page-00142",
+        "src-a0c586246888-pdf_page-00143",
+        "src-a0c586246888-pdf_page-00144",
+        "src-a0c586246888-pdf_page-00145",
+        "src-a0c586246888-pdf_page-00146",
+        "src-a0c586246888-pdf_page-00147",
+        "src-a0c586246888-pdf_page-00148",
+        "src-a0c586246888-pdf_page-00149",
+        "src-a0c586246888-pdf_page-00150",
+        "src-a0c586246888-pdf_page-00151",
+        "src-a0c586246888-pdf_page-00152",
+        "src-a0c586246888-pdf_page-00153",
+        "src-a0c586246888-pdf_page-00154",
+        "src-a0c586246888-pdf_page-00155",
+        "src-a0c586246888-pdf_page-00156",
+        "src-a0c586246888-pdf_page-00157",
+        "src-a0c586246888-pdf_page-00158",
+        "src-a0c586246888-pdf_page-00159",
+        "src-a0c586246888-pdf_page-00160",
+        "src-a0c586246888-pdf_page-00161",
+        "src-a0c586246888-pdf_page-00162",
+        "src-a0c586246888-pdf_page-00163",
+        "src-a0c586246888-pdf_page-00164",
+        "src-a0c586246888-pdf_page-00165"
+      ],
+      "quote": "understanding of the child and family as is possible (Levy and Orlans 1995).",
+      "checked": true
+    },
+    {
+      "source": "第6章《Assessment》 · 原书第131–134页 · PDF第133–136页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00133",
+        "src-a0c586246888-pdf_page-00134",
+        "src-a0c586246888-pdf_page-00135",
+        "src-a0c586246888-pdf_page-00136"
+      ],
+      "quote": "optimally effective interventions: assess  goals  intervene  reassess.",
+      "checked": true
+    },
+    {
+      "source": "第6章《Assessment》 · 原书第131–148页 · PDF第133–150页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00133",
+        "src-a0c586246888-pdf_page-00134",
+        "src-a0c586246888-pdf_page-00135",
+        "src-a0c586246888-pdf_page-00136",
+        "src-a0c586246888-pdf_page-00137",
+        "src-a0c586246888-pdf_page-00138",
+        "src-a0c586246888-pdf_page-00139",
+        "src-a0c586246888-pdf_page-00140",
+        "src-a0c586246888-pdf_page-00141",
+        "src-a0c586246888-pdf_page-00142",
+        "src-a0c586246888-pdf_page-00143",
+        "src-a0c586246888-pdf_page-00144",
+        "src-a0c586246888-pdf_page-00145",
+        "src-a0c586246888-pdf_page-00146",
+        "src-a0c586246888-pdf_page-00147",
+        "src-a0c586246888-pdf_page-00148",
+        "src-a0c586246888-pdf_page-00149",
+        "src-a0c586246888-pdf_page-00150"
+      ],
+      "quote": "optimally effective interventions: assess  goals  intervene  reassess.",
+      "checked": true
+    },
+    {
+      "source": "第6章《Assessment》 · 原书第131–151页 · PDF第133–153页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00133",
+        "src-a0c586246888-pdf_page-00134",
+        "src-a0c586246888-pdf_page-00135",
+        "src-a0c586246888-pdf_page-00136",
+        "src-a0c586246888-pdf_page-00137",
+        "src-a0c586246888-pdf_page-00138",
+        "src-a0c586246888-pdf_page-00139",
+        "src-a0c586246888-pdf_page-00140",
+        "src-a0c586246888-pdf_page-00141",
+        "src-a0c586246888-pdf_page-00142",
+        "src-a0c586246888-pdf_page-00143",
+        "src-a0c586246888-pdf_page-00144",
+        "src-a0c586246888-pdf_page-00145",
+        "src-a0c586246888-pdf_page-00146",
+        "src-a0c586246888-pdf_page-00147",
+        "src-a0c586246888-pdf_page-00148",
+        "src-a0c586246888-pdf_page-00149",
+        "src-a0c586246888-pdf_page-00150",
+        "src-a0c586246888-pdf_page-00151",
+        "src-a0c586246888-pdf_page-00152",
+        "src-a0c586246888-pdf_page-00153"
+      ],
+      "quote": "optimally effective interventions: assess  goals  intervene  reassess.",
+      "checked": true
+    },
+    {
+      "source": "第6章《Assessment》 · 原书第131页 · PDF第133页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00133"
+      ],
+      "quote": "optimally effective interventions: assess  goals  intervene  reassess.",
+      "checked": true
+    },
+    {
+      "source": "第6章《Assessment》 · 原书第132–134页 · PDF第134–136页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00134",
+        "src-a0c586246888-pdf_page-00135",
+        "src-a0c586246888-pdf_page-00136"
+      ],
+      "quote": "in young children (adapted from Zeanah, Mammen, and Lieberman 1993).",
+      "checked": true
+    },
+    {
+      "source": "第6章《Assessment》 · 原书第136–138页 · PDF第138–140页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00138",
+        "src-a0c586246888-pdf_page-00139",
+        "src-a0c586246888-pdf_page-00140"
+      ],
+      "quote": "were often placed in foster care and/or institutions (e.g., orphanages).",
+      "checked": true
+    },
+    {
+      "source": "第6章《Assessment》 · 原书第137–138页 · PDF第139–140页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00139",
+        "src-a0c586246888-pdf_page-00140"
+      ],
+      "quote": "• Nonattached: Failure to develop a preferred attachment figure.",
+      "checked": true
+    },
+    {
+      "source": "第6章《Assessment》 · 原书第138–139页 · PDF第140–141页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00140",
+        "src-a0c586246888-pdf_page-00141"
+      ],
+      "quote": "child’s functioning and development (Lieberman et al. 1997).",
+      "checked": true
+    },
+    {
+      "source": "第6章《Assessment》 · 原书第142–144页 · PDF第144–146页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00144",
+        "src-a0c586246888-pdf_page-00145",
+        "src-a0c586246888-pdf_page-00146"
+      ],
+      "quote": "methods are described in detail in Chapter 8.",
+      "checked": true
+    },
+    {
+      "source": "第6章《Assessment》 · 原书第143–148页 · PDF第145–150页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00145",
+        "src-a0c586246888-pdf_page-00146",
+        "src-a0c586246888-pdf_page-00147",
+        "src-a0c586246888-pdf_page-00148",
+        "src-a0c586246888-pdf_page-00149",
+        "src-a0c586246888-pdf_page-00150"
+      ],
+      "quote": "the message, “You are not worthy of love and connection.”",
+      "checked": true
+    },
+    {
+      "source": "第6章《Assessment》 · 原书第143页 · PDF第145页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00145"
+      ],
+      "quote": "the message, “You are not worthy of love and connection.”",
+      "checked": true
+    },
+    {
+      "source": "第6章《Assessment》 · 原书第148–151页 · PDF第150–153页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00150",
+        "src-a0c586246888-pdf_page-00151",
+        "src-a0c586246888-pdf_page-00152",
+        "src-a0c586246888-pdf_page-00153"
+      ],
+      "quote": "surreptitious behaviors. Sadistic cruelty to animals, often secretive, can occur.",
+      "checked": true
+    },
+    {
+      "source": "第6章《Assessment》 · 原书第148–163页 · PDF第150–165页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00150",
+        "src-a0c586246888-pdf_page-00151",
+        "src-a0c586246888-pdf_page-00152",
+        "src-a0c586246888-pdf_page-00153",
+        "src-a0c586246888-pdf_page-00154",
+        "src-a0c586246888-pdf_page-00155",
+        "src-a0c586246888-pdf_page-00156",
+        "src-a0c586246888-pdf_page-00157",
+        "src-a0c586246888-pdf_page-00158",
+        "src-a0c586246888-pdf_page-00159",
+        "src-a0c586246888-pdf_page-00160",
+        "src-a0c586246888-pdf_page-00161",
+        "src-a0c586246888-pdf_page-00162",
+        "src-a0c586246888-pdf_page-00163",
+        "src-a0c586246888-pdf_page-00164",
+        "src-a0c586246888-pdf_page-00165"
+      ],
+      "quote": "surreptitious behaviors. Sadistic cruelty to animals, often secretive, can occur.",
+      "checked": true
+    },
+    {
+      "source": "第6章《Assessment》 · 原书第149–149页 · PDF第151–151页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00151"
+      ],
+      "quote": "others, excessive masturbation, seductive manipulation, and sexualized play.",
+      "checked": true
+    },
+    {
+      "source": "第6章《Assessment》 · 原书第149–151页 · PDF第151–153页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00151",
+        "src-a0c586246888-pdf_page-00152",
+        "src-a0c586246888-pdf_page-00153"
+      ],
+      "quote": "others, excessive masturbation, seductive manipulation, and sexualized play.",
+      "checked": true
+    },
+    {
+      "source": "第6章《Assessment》 · 原书第163–164页 · PDF第165–166页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00165",
+        "src-a0c586246888-pdf_page-00166"
+      ],
+      "quote": "Children with attachment disorder can also suffer from bipolar disorder.",
+      "checked": true
+    },
+    {
+      "source": "第6章《Assessment》 · 原书第163–165页 · PDF第165–167页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00165",
+        "src-a0c586246888-pdf_page-00166",
+        "src-a0c586246888-pdf_page-00167"
+      ],
+      "quote": "Children with attachment disorder can also suffer from bipolar disorder.",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第164–185页 · PDF第166–187页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00166",
+        "src-a0c586246888-pdf_page-00167",
+        "src-a0c586246888-pdf_page-00168",
+        "src-a0c586246888-pdf_page-00169",
+        "src-a0c586246888-pdf_page-00170",
+        "src-a0c586246888-pdf_page-00171",
+        "src-a0c586246888-pdf_page-00172",
+        "src-a0c586246888-pdf_page-00173",
+        "src-a0c586246888-pdf_page-00174",
+        "src-a0c586246888-pdf_page-00175",
+        "src-a0c586246888-pdf_page-00176",
+        "src-a0c586246888-pdf_page-00177",
+        "src-a0c586246888-pdf_page-00178",
+        "src-a0c586246888-pdf_page-00179",
+        "src-a0c586246888-pdf_page-00180",
+        "src-a0c586246888-pdf_page-00181",
+        "src-a0c586246888-pdf_page-00182",
+        "src-a0c586246888-pdf_page-00183",
+        "src-a0c586246888-pdf_page-00184",
+        "src-a0c586246888-pdf_page-00185",
+        "src-a0c586246888-pdf_page-00186",
+        "src-a0c586246888-pdf_page-00187"
+      ],
+      "quote": "rejection become mutually reinforcing in this child–parent relationship.",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第166–179页 · PDF第168–181页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00168",
+        "src-a0c586246888-pdf_page-00169",
+        "src-a0c586246888-pdf_page-00170",
+        "src-a0c586246888-pdf_page-00171",
+        "src-a0c586246888-pdf_page-00172",
+        "src-a0c586246888-pdf_page-00173",
+        "src-a0c586246888-pdf_page-00174",
+        "src-a0c586246888-pdf_page-00175",
+        "src-a0c586246888-pdf_page-00176",
+        "src-a0c586246888-pdf_page-00177",
+        "src-a0c586246888-pdf_page-00178",
+        "src-a0c586246888-pdf_page-00179",
+        "src-a0c586246888-pdf_page-00180",
+        "src-a0c586246888-pdf_page-00181"
+      ],
+      "quote": "significant others—therapists, parents, siblings, extended kin, teachers.",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第168–171页 · PDF第170–173页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00170",
+        "src-a0c586246888-pdf_page-00171",
+        "src-a0c586246888-pdf_page-00172",
+        "src-a0c586246888-pdf_page-00173"
+      ],
+      "quote": "members sense positive movement toward attainment of goals.",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第168–184页 · PDF第170–186页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00170",
+        "src-a0c586246888-pdf_page-00171",
+        "src-a0c586246888-pdf_page-00172",
+        "src-a0c586246888-pdf_page-00173",
+        "src-a0c586246888-pdf_page-00174",
+        "src-a0c586246888-pdf_page-00175",
+        "src-a0c586246888-pdf_page-00176",
+        "src-a0c586246888-pdf_page-00177",
+        "src-a0c586246888-pdf_page-00178",
+        "src-a0c586246888-pdf_page-00179",
+        "src-a0c586246888-pdf_page-00180",
+        "src-a0c586246888-pdf_page-00181",
+        "src-a0c586246888-pdf_page-00182",
+        "src-a0c586246888-pdf_page-00183",
+        "src-a0c586246888-pdf_page-00184",
+        "src-a0c586246888-pdf_page-00185",
+        "src-a0c586246888-pdf_page-00186"
+      ],
+      "quote": "members sense positive movement toward attainment of goals.",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第169页 · PDF第171页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00171"
+      ],
+      "quote": "new information), a different therapeutic direction may be considered.",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第171–173页 · PDF第173–175页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00173",
+        "src-a0c586246888-pdf_page-00174",
+        "src-a0c586246888-pdf_page-00175"
+      ],
+      "quote": "waits three minutes, then gives the cookie to the child.",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第171–178页 · PDF第173–180页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00173",
+        "src-a0c586246888-pdf_page-00174",
+        "src-a0c586246888-pdf_page-00175",
+        "src-a0c586246888-pdf_page-00176",
+        "src-a0c586246888-pdf_page-00177",
+        "src-a0c586246888-pdf_page-00178",
+        "src-a0c586246888-pdf_page-00179",
+        "src-a0c586246888-pdf_page-00180"
+      ],
+      "quote": "waits three minutes, then gives the cookie to the child.",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第171–179页 · PDF第173–181页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00173",
+        "src-a0c586246888-pdf_page-00174",
+        "src-a0c586246888-pdf_page-00175",
+        "src-a0c586246888-pdf_page-00176",
+        "src-a0c586246888-pdf_page-00177",
+        "src-a0c586246888-pdf_page-00178",
+        "src-a0c586246888-pdf_page-00179",
+        "src-a0c586246888-pdf_page-00180",
+        "src-a0c586246888-pdf_page-00181"
+      ],
+      "quote": "waits three minutes, then gives the cookie to the child.",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第171–184页 · PDF第173–186页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00173",
+        "src-a0c586246888-pdf_page-00174",
+        "src-a0c586246888-pdf_page-00175",
+        "src-a0c586246888-pdf_page-00176",
+        "src-a0c586246888-pdf_page-00177",
+        "src-a0c586246888-pdf_page-00178",
+        "src-a0c586246888-pdf_page-00179",
+        "src-a0c586246888-pdf_page-00180",
+        "src-a0c586246888-pdf_page-00181",
+        "src-a0c586246888-pdf_page-00182",
+        "src-a0c586246888-pdf_page-00183",
+        "src-a0c586246888-pdf_page-00184",
+        "src-a0c586246888-pdf_page-00185",
+        "src-a0c586246888-pdf_page-00186"
+      ],
+      "quote": "waits three minutes, then gives the cookie to the child.",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第172–173页 · PDF第174–175页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00174",
+        "src-a0c586246888-pdf_page-00175"
+      ],
+      "quote": "emotional, and biological connection that is safe, close, and mutually fulfilling.",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第172–174页 · PDF第174–176页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00174",
+        "src-a0c586246888-pdf_page-00175",
+        "src-a0c586246888-pdf_page-00176"
+      ],
+      "quote": "emotional, and biological connection that is safe, close, and mutually fulfilling.",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第172页 · PDF第174页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00174"
+      ],
+      "quote": "emotional, and biological connection that is safe, close, and mutually fulfilling.",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第173–178页 · PDF第175–180页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00175",
+        "src-a0c586246888-pdf_page-00176",
+        "src-a0c586246888-pdf_page-00177",
+        "src-a0c586246888-pdf_page-00178",
+        "src-a0c586246888-pdf_page-00179",
+        "src-a0c586246888-pdf_page-00180"
+      ],
+      "quote": "and is biologically programed into us for the purpose of creating attachment.",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第174–175页 · PDF第176–177页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00176",
+        "src-a0c586246888-pdf_page-00177"
+      ],
+      "quote": "information, pay attention, and utilize the neocortex for learning and change.",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第176页 · PDF第178页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00178"
+      ],
+      "quote": "There is a wide variety of styles and demeanors displayed by therapists.",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第178–182页 · PDF第180–184页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00180",
+        "src-a0c586246888-pdf_page-00181",
+        "src-a0c586246888-pdf_page-00182",
+        "src-a0c586246888-pdf_page-00183",
+        "src-a0c586246888-pdf_page-00184"
+      ],
+      "quote": "attitude. This is also similar to the manner in which parents “down-regulate”",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第180–184页 · PDF第182–186页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00182",
+        "src-a0c586246888-pdf_page-00183",
+        "src-a0c586246888-pdf_page-00184",
+        "src-a0c586246888-pdf_page-00185",
+        "src-a0c586246888-pdf_page-00186"
+      ],
+      "quote": "help the child compile a list of their treatment goals in the initial interview.",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第180–185页 · PDF第182–187页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00182",
+        "src-a0c586246888-pdf_page-00183",
+        "src-a0c586246888-pdf_page-00184",
+        "src-a0c586246888-pdf_page-00185",
+        "src-a0c586246888-pdf_page-00186",
+        "src-a0c586246888-pdf_page-00187"
+      ],
+      "quote": "help the child compile a list of their treatment goals in the initial interview.",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第180页 · PDF第182页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00182"
+      ],
+      "quote": "help the child compile a list of their treatment goals in the initial interview.",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第181页 · PDF第183页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00183"
+      ],
+      "quote": "such as “rules,” expectations, and treatment format are established.",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第183–185页 · PDF第185–187页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00185",
+        "src-a0c586246888-pdf_page-00186",
+        "src-a0c586246888-pdf_page-00187"
+      ],
+      "quote": "• Identify and express emotions verbally in face-to-face interaction.",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第183–186页 · PDF第185–188页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00185",
+        "src-a0c586246888-pdf_page-00186",
+        "src-a0c586246888-pdf_page-00187",
+        "src-a0c586246888-pdf_page-00188"
+      ],
+      "quote": "• Identify and express emotions verbally in face-to-face interaction.",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第183–187页 · PDF第185–189页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00185",
+        "src-a0c586246888-pdf_page-00186",
+        "src-a0c586246888-pdf_page-00187",
+        "src-a0c586246888-pdf_page-00188",
+        "src-a0c586246888-pdf_page-00189"
+      ],
+      "quote": "• Identify and express emotions verbally in face-to-face interaction.",
+      "checked": true
+    },
+    {
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第183页 · PDF第185页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00185"
+      ],
+      "quote": "• Identify and express emotions verbally in face-to-face interaction.",
+      "checked": true
+    },
+    {
+      "source": "第8章《Corrective Attachment Therapy: Methods and Interventions》 · 原书第186–233页 · PDF第188–235页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00188",
+        "src-a0c586246888-pdf_page-00189",
+        "src-a0c586246888-pdf_page-00190",
+        "src-a0c586246888-pdf_page-00191",
+        "src-a0c586246888-pdf_page-00192",
+        "src-a0c586246888-pdf_page-00193",
+        "src-a0c586246888-pdf_page-00194",
+        "src-a0c586246888-pdf_page-00195",
+        "src-a0c586246888-pdf_page-00196",
+        "src-a0c586246888-pdf_page-00197",
+        "src-a0c586246888-pdf_page-00198",
+        "src-a0c586246888-pdf_page-00199",
+        "src-a0c586246888-pdf_page-00200",
+        "src-a0c586246888-pdf_page-00201",
+        "src-a0c586246888-pdf_page-00202",
+        "src-a0c586246888-pdf_page-00203",
+        "src-a0c586246888-pdf_page-00204",
+        "src-a0c586246888-pdf_page-00205",
+        "src-a0c586246888-pdf_page-00206",
+        "src-a0c586246888-pdf_page-00207",
+        "src-a0c586246888-pdf_page-00208",
+        "src-a0c586246888-pdf_page-00209",
+        "src-a0c586246888-pdf_page-00210",
+        "src-a0c586246888-pdf_page-00211",
+        "src-a0c586246888-pdf_page-00212",
+        "src-a0c586246888-pdf_page-00213",
+        "src-a0c586246888-pdf_page-00214",
+        "src-a0c586246888-pdf_page-00215",
+        "src-a0c586246888-pdf_page-00216",
+        "src-a0c586246888-pdf_page-00217",
+        "src-a0c586246888-pdf_page-00218",
+        "src-a0c586246888-pdf_page-00219",
+        "src-a0c586246888-pdf_page-00220",
+        "src-a0c586246888-pdf_page-00221",
+        "src-a0c586246888-pdf_page-00222",
+        "src-a0c586246888-pdf_page-00223",
+        "src-a0c586246888-pdf_page-00224",
+        "src-a0c586246888-pdf_page-00225",
+        "src-a0c586246888-pdf_page-00226",
+        "src-a0c586246888-pdf_page-00227",
+        "src-a0c586246888-pdf_page-00228",
+        "src-a0c586246888-pdf_page-00229",
+        "src-a0c586246888-pdf_page-00230",
+        "src-a0c586246888-pdf_page-00231",
+        "src-a0c586246888-pdf_page-00232",
+        "src-a0c586246888-pdf_page-00233",
+        "src-a0c586246888-pdf_page-00234",
+        "src-a0c586246888-pdf_page-00235"
+      ],
+      "quote": "specific interventions, it is necessary to focus on the therapeutic relationship.",
+      "checked": true
+    },
+    {
+      "source": "第8章《Corrective Attachment Therapy: Methods and Interventions》 · 原书第188–190页 · PDF第190–192页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00190",
+        "src-a0c586246888-pdf_page-00191",
+        "src-a0c586246888-pdf_page-00192"
+      ],
+      "quote": "challenge and confront client’s self-defeating behavior and mental models.",
+      "checked": true
+    },
+    {
+      "source": "第8章《Corrective Attachment Therapy: Methods and Interventions》 · 原书第188–191页 · PDF第190–193页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00190",
+        "src-a0c586246888-pdf_page-00191",
+        "src-a0c586246888-pdf_page-00192",
+        "src-a0c586246888-pdf_page-00193"
+      ],
+      "quote": "challenge and confront client’s self-defeating behavior and mental models.",
+      "checked": true
+    },
+    {
+      "source": "第8章《Corrective Attachment Therapy: Methods and Interventions》 · 原书第189–191页 · PDF第191–193页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00191",
+        "src-a0c586246888-pdf_page-00192",
+        "src-a0c586246888-pdf_page-00193"
+      ],
+      "quote": "injections relieve pain, and sham surgeries cure arthritic knees (Gura 2013).",
+      "checked": true
+    },
+    {
+      "source": "第8章《Corrective Attachment Therapy: Methods and Interventions》 · 原书第190–194页 · PDF第192–196页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00192",
+        "src-a0c586246888-pdf_page-00193",
+        "src-a0c586246888-pdf_page-00194",
+        "src-a0c586246888-pdf_page-00195",
+        "src-a0c586246888-pdf_page-00196"
+      ],
+      "quote": "expecting relief caused patients to have a biochemical response (Kirsch 2010).",
+      "checked": true
+    },
+    {
+      "source": "第8章《Corrective Attachment Therapy: Methods and Interventions》 · 原书第190–233页 · PDF第192–235页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00192",
+        "src-a0c586246888-pdf_page-00193",
+        "src-a0c586246888-pdf_page-00194",
+        "src-a0c586246888-pdf_page-00195",
+        "src-a0c586246888-pdf_page-00196",
+        "src-a0c586246888-pdf_page-00197",
+        "src-a0c586246888-pdf_page-00198",
+        "src-a0c586246888-pdf_page-00199",
+        "src-a0c586246888-pdf_page-00200",
+        "src-a0c586246888-pdf_page-00201",
+        "src-a0c586246888-pdf_page-00202",
+        "src-a0c586246888-pdf_page-00203",
+        "src-a0c586246888-pdf_page-00204",
+        "src-a0c586246888-pdf_page-00205",
+        "src-a0c586246888-pdf_page-00206",
+        "src-a0c586246888-pdf_page-00207",
+        "src-a0c586246888-pdf_page-00208",
+        "src-a0c586246888-pdf_page-00209",
+        "src-a0c586246888-pdf_page-00210",
+        "src-a0c586246888-pdf_page-00211",
+        "src-a0c586246888-pdf_page-00212",
+        "src-a0c586246888-pdf_page-00213",
+        "src-a0c586246888-pdf_page-00214",
+        "src-a0c586246888-pdf_page-00215",
+        "src-a0c586246888-pdf_page-00216",
+        "src-a0c586246888-pdf_page-00217",
+        "src-a0c586246888-pdf_page-00218",
+        "src-a0c586246888-pdf_page-00219",
+        "src-a0c586246888-pdf_page-00220",
+        "src-a0c586246888-pdf_page-00221",
+        "src-a0c586246888-pdf_page-00222",
+        "src-a0c586246888-pdf_page-00223",
+        "src-a0c586246888-pdf_page-00224",
+        "src-a0c586246888-pdf_page-00225",
+        "src-a0c586246888-pdf_page-00226",
+        "src-a0c586246888-pdf_page-00227",
+        "src-a0c586246888-pdf_page-00228",
+        "src-a0c586246888-pdf_page-00229",
+        "src-a0c586246888-pdf_page-00230",
+        "src-a0c586246888-pdf_page-00231",
+        "src-a0c586246888-pdf_page-00232",
+        "src-a0c586246888-pdf_page-00233",
+        "src-a0c586246888-pdf_page-00234",
+        "src-a0c586246888-pdf_page-00235"
+      ],
+      "quote": "expecting relief caused patients to have a biochemical response (Kirsch 2010).",
+      "checked": true
+    },
+    {
+      "source": "第8章《Corrective Attachment Therapy: Methods and Interventions》 · 原书第190页 · PDF第192页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00192"
+      ],
+      "quote": "expecting relief caused patients to have a biochemical response (Kirsch 2010).",
+      "checked": true
+    },
+    {
+      "source": "第8章《Corrective Attachment Therapy: Methods and Interventions》 · 原书第194–229页 · PDF第196–231页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00196",
+        "src-a0c586246888-pdf_page-00197",
+        "src-a0c586246888-pdf_page-00198",
+        "src-a0c586246888-pdf_page-00199",
+        "src-a0c586246888-pdf_page-00200",
+        "src-a0c586246888-pdf_page-00201",
+        "src-a0c586246888-pdf_page-00202",
+        "src-a0c586246888-pdf_page-00203",
+        "src-a0c586246888-pdf_page-00204",
+        "src-a0c586246888-pdf_page-00205",
+        "src-a0c586246888-pdf_page-00206",
+        "src-a0c586246888-pdf_page-00207",
+        "src-a0c586246888-pdf_page-00208",
+        "src-a0c586246888-pdf_page-00209",
+        "src-a0c586246888-pdf_page-00210",
+        "src-a0c586246888-pdf_page-00211",
+        "src-a0c586246888-pdf_page-00212",
+        "src-a0c586246888-pdf_page-00213",
+        "src-a0c586246888-pdf_page-00214",
+        "src-a0c586246888-pdf_page-00215",
+        "src-a0c586246888-pdf_page-00216",
+        "src-a0c586246888-pdf_page-00217",
+        "src-a0c586246888-pdf_page-00218",
+        "src-a0c586246888-pdf_page-00219",
+        "src-a0c586246888-pdf_page-00220",
+        "src-a0c586246888-pdf_page-00221",
+        "src-a0c586246888-pdf_page-00222",
+        "src-a0c586246888-pdf_page-00223",
+        "src-a0c586246888-pdf_page-00224",
+        "src-a0c586246888-pdf_page-00225",
+        "src-a0c586246888-pdf_page-00226",
+        "src-a0c586246888-pdf_page-00227",
+        "src-a0c586246888-pdf_page-00228",
+        "src-a0c586246888-pdf_page-00229",
+        "src-a0c586246888-pdf_page-00230",
+        "src-a0c586246888-pdf_page-00231"
+      ],
+      "quote": "and feelings, since one affects the other, in an ongoing and reciprocal manner.",
+      "checked": true
+    },
+    {
+      "source": "第8章《Corrective Attachment Therapy: Methods and Interventions》 · 原书第194页 · PDF第196页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00196"
+      ],
+      "quote": "and feelings, since one affects the other, in an ongoing and reciprocal manner.",
+      "checked": true
+    },
+    {
+      "source": "第8章《Corrective Attachment Therapy: Methods and Interventions》 · 原书第203–205页 · PDF第205–207页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00205",
+        "src-a0c586246888-pdf_page-00206",
+        "src-a0c586246888-pdf_page-00207"
+      ],
+      "quote": "which can be used with any dyad (i.e., parent–child, adult partners, siblings).",
+      "checked": true
+    },
+    {
+      "source": "第8章《Corrective Attachment Therapy: Methods and Interventions》 · 原书第206–210页 · PDF第208–212页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00208",
+        "src-a0c586246888-pdf_page-00209",
+        "src-a0c586246888-pdf_page-00210",
+        "src-a0c586246888-pdf_page-00211",
+        "src-a0c586246888-pdf_page-00212"
+      ],
+      "quote": "will be presented in subsequent pages in the context of case examples.",
+      "checked": true
+    },
+    {
+      "source": "第8章《Corrective Attachment Therapy: Methods and Interventions》 · 原书第223–227页 · PDF第225–229页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00225",
+        "src-a0c586246888-pdf_page-00226",
+        "src-a0c586246888-pdf_page-00227",
+        "src-a0c586246888-pdf_page-00228",
+        "src-a0c586246888-pdf_page-00229"
+      ],
+      "quote": "not apply to literally, in order to indicate a comparison with the literal usage.",
+      "checked": true
+    },
+    {
+      "source": "第8章《Corrective Attachment Therapy: Methods and Interventions》 · 原书第230–233页 · PDF第232–235页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00232",
+        "src-a0c586246888-pdf_page-00233",
+        "src-a0c586246888-pdf_page-00234",
+        "src-a0c586246888-pdf_page-00235"
+      ],
+      "quote": "patterns; new choices of thinking, feeling, and interacting are now available.",
+      "checked": true
+    },
+    {
+      "source": "第8章《Corrective Attachment Therapy: Methods and Interventions》 · 原书第230页 · PDF第232页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00232"
+      ],
+      "quote": "patterns; new choices of thinking, feeling, and interacting are now available.",
+      "checked": true
+    },
+    {
+      "source": "第9章《Corrective Attachment Therapy: The Family System》 · 原书第234–237页 · PDF第236–239页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00236",
+        "src-a0c586246888-pdf_page-00237",
+        "src-a0c586246888-pdf_page-00238",
+        "src-a0c586246888-pdf_page-00239"
+      ],
+      "quote": "effect. The systems model presumes that relationships are “circular,”",
+      "checked": true
+    },
+    {
+      "source": "第9章《Corrective Attachment Therapy: The Family System》 · 原书第234–255页 · PDF第236–257页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00236",
+        "src-a0c586246888-pdf_page-00237",
+        "src-a0c586246888-pdf_page-00238",
+        "src-a0c586246888-pdf_page-00239",
+        "src-a0c586246888-pdf_page-00240",
+        "src-a0c586246888-pdf_page-00241",
+        "src-a0c586246888-pdf_page-00242",
+        "src-a0c586246888-pdf_page-00243",
+        "src-a0c586246888-pdf_page-00244",
+        "src-a0c586246888-pdf_page-00245",
+        "src-a0c586246888-pdf_page-00246",
+        "src-a0c586246888-pdf_page-00247",
+        "src-a0c586246888-pdf_page-00248",
+        "src-a0c586246888-pdf_page-00249",
+        "src-a0c586246888-pdf_page-00250",
+        "src-a0c586246888-pdf_page-00251",
+        "src-a0c586246888-pdf_page-00252",
+        "src-a0c586246888-pdf_page-00253",
+        "src-a0c586246888-pdf_page-00254",
+        "src-a0c586246888-pdf_page-00255",
+        "src-a0c586246888-pdf_page-00256",
+        "src-a0c586246888-pdf_page-00257"
+      ],
+      "quote": "effect. The systems model presumes that relationships are “circular,”",
+      "checked": true
+    },
+    {
+      "source": "第9章《Corrective Attachment Therapy: The Family System》 · 原书第234页 · PDF第236页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00236"
+      ],
+      "quote": "effect. The systems model presumes that relationships are “circular,”",
+      "checked": true
+    },
+    {
+      "source": "第9章《Corrective Attachment Therapy: The Family System》 · 原书第237–239页 · PDF第239–241页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00239",
+        "src-a0c586246888-pdf_page-00240",
+        "src-a0c586246888-pdf_page-00241"
+      ],
+      "quote": "by attempting to be different with their own children (“corrective script”).",
+      "checked": true
+    },
+    {
+      "source": "第9章《Corrective Attachment Therapy: The Family System》 · 原书第238–239页 · PDF第240–241页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00240",
+        "src-a0c586246888-pdf_page-00241"
+      ],
+      "quote": "programs are vital in helping and supporting high-risk families and children.",
+      "checked": true
+    },
+    {
+      "source": "附录《Appendix A Intake Forms 至 Appendix I Follow-Up Treatment Plan》 · 原书第379–427页 · PDF第381–429页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00381",
+        "src-a0c586246888-pdf_page-00382",
+        "src-a0c586246888-pdf_page-00383",
+        "src-a0c586246888-pdf_page-00384",
+        "src-a0c586246888-pdf_page-00385",
+        "src-a0c586246888-pdf_page-00386",
+        "src-a0c586246888-pdf_page-00387",
+        "src-a0c586246888-pdf_page-00388",
+        "src-a0c586246888-pdf_page-00389",
+        "src-a0c586246888-pdf_page-00390",
+        "src-a0c586246888-pdf_page-00391",
+        "src-a0c586246888-pdf_page-00392",
+        "src-a0c586246888-pdf_page-00393",
+        "src-a0c586246888-pdf_page-00394",
+        "src-a0c586246888-pdf_page-00395",
+        "src-a0c586246888-pdf_page-00396",
+        "src-a0c586246888-pdf_page-00397",
+        "src-a0c586246888-pdf_page-00398",
+        "src-a0c586246888-pdf_page-00399",
+        "src-a0c586246888-pdf_page-00400",
+        "src-a0c586246888-pdf_page-00401",
+        "src-a0c586246888-pdf_page-00402",
+        "src-a0c586246888-pdf_page-00403",
+        "src-a0c586246888-pdf_page-00404",
+        "src-a0c586246888-pdf_page-00405",
+        "src-a0c586246888-pdf_page-00406",
+        "src-a0c586246888-pdf_page-00407",
+        "src-a0c586246888-pdf_page-00408",
+        "src-a0c586246888-pdf_page-00409",
+        "src-a0c586246888-pdf_page-00410",
+        "src-a0c586246888-pdf_page-00411",
+        "src-a0c586246888-pdf_page-00412",
+        "src-a0c586246888-pdf_page-00413",
+        "src-a0c586246888-pdf_page-00414",
+        "src-a0c586246888-pdf_page-00415",
+        "src-a0c586246888-pdf_page-00416",
+        "src-a0c586246888-pdf_page-00417",
+        "src-a0c586246888-pdf_page-00418",
+        "src-a0c586246888-pdf_page-00419",
+        "src-a0c586246888-pdf_page-00420",
+        "src-a0c586246888-pdf_page-00421",
+        "src-a0c586246888-pdf_page-00422",
+        "src-a0c586246888-pdf_page-00423",
+        "src-a0c586246888-pdf_page-00424",
+        "src-a0c586246888-pdf_page-00425",
+        "src-a0c586246888-pdf_page-00426",
+        "src-a0c586246888-pdf_page-00427",
+        "src-a0c586246888-pdf_page-00428",
+        "src-a0c586246888-pdf_page-00429"
+      ],
+      "quote": "forms have been reproduced from the online application found at: www.",
+      "checked": true
+    },
+    {
+      "source": "附录《Appendix A Intake Forms》 · 原书第379–399页 · PDF第381–401页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00381",
+        "src-a0c586246888-pdf_page-00382",
+        "src-a0c586246888-pdf_page-00383",
+        "src-a0c586246888-pdf_page-00384",
+        "src-a0c586246888-pdf_page-00385",
+        "src-a0c586246888-pdf_page-00386",
+        "src-a0c586246888-pdf_page-00387",
+        "src-a0c586246888-pdf_page-00388",
+        "src-a0c586246888-pdf_page-00389",
+        "src-a0c586246888-pdf_page-00390",
+        "src-a0c586246888-pdf_page-00391",
+        "src-a0c586246888-pdf_page-00392",
+        "src-a0c586246888-pdf_page-00393",
+        "src-a0c586246888-pdf_page-00394",
+        "src-a0c586246888-pdf_page-00395",
+        "src-a0c586246888-pdf_page-00396",
+        "src-a0c586246888-pdf_page-00397",
+        "src-a0c586246888-pdf_page-00398",
+        "src-a0c586246888-pdf_page-00399",
+        "src-a0c586246888-pdf_page-00400",
+        "src-a0c586246888-pdf_page-00401"
+      ],
+      "quote": "forms have been reproduced from the online application found at: www.",
+      "checked": true
+    },
+    {
+      "source": "附录《Appendix A Intake Forms；Appendix C Sentence Completion Form；Appendix D Patterns of Attachment；Appendix E Symptom Comparison》 · 原书第379–414页 · PDF第381–416页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00381",
+        "src-a0c586246888-pdf_page-00382",
+        "src-a0c586246888-pdf_page-00383",
+        "src-a0c586246888-pdf_page-00384",
+        "src-a0c586246888-pdf_page-00385",
+        "src-a0c586246888-pdf_page-00386",
+        "src-a0c586246888-pdf_page-00387",
+        "src-a0c586246888-pdf_page-00388",
+        "src-a0c586246888-pdf_page-00389",
+        "src-a0c586246888-pdf_page-00390",
+        "src-a0c586246888-pdf_page-00391",
+        "src-a0c586246888-pdf_page-00392",
+        "src-a0c586246888-pdf_page-00393",
+        "src-a0c586246888-pdf_page-00394",
+        "src-a0c586246888-pdf_page-00395",
+        "src-a0c586246888-pdf_page-00396",
+        "src-a0c586246888-pdf_page-00397",
+        "src-a0c586246888-pdf_page-00398",
+        "src-a0c586246888-pdf_page-00399",
+        "src-a0c586246888-pdf_page-00400",
+        "src-a0c586246888-pdf_page-00401",
+        "src-a0c586246888-pdf_page-00402",
+        "src-a0c586246888-pdf_page-00403",
+        "src-a0c586246888-pdf_page-00404",
+        "src-a0c586246888-pdf_page-00405",
+        "src-a0c586246888-pdf_page-00406",
+        "src-a0c586246888-pdf_page-00407",
+        "src-a0c586246888-pdf_page-00408",
+        "src-a0c586246888-pdf_page-00409",
+        "src-a0c586246888-pdf_page-00410",
+        "src-a0c586246888-pdf_page-00411",
+        "src-a0c586246888-pdf_page-00412",
+        "src-a0c586246888-pdf_page-00413",
+        "src-a0c586246888-pdf_page-00414",
+        "src-a0c586246888-pdf_page-00415",
+        "src-a0c586246888-pdf_page-00416"
+      ],
+      "quote": "forms have been reproduced from the online application found at: www.",
+      "checked": true
+    },
+    {
+      "source": "附录《Appendix A Intake Forms；Appendix D Patterns of Attachment；Appendix E Symptom Comparison》 · 原书第379–414页 · PDF第381–416页",
+      "sourceIds": [
+        "src-a0c586246888-pdf_page-00381",
+        "src-a0c586246888-pdf_page-00382",
+        "src-a0c586246888-pdf_page-00383",
+        "src-a0c586246888-pdf_page-00384",
+        "src-a0c586246888-pdf_page-00385",
+        "src-a0c586246888-pdf_page-00386",
+        "src-a0c586246888-pdf_page-00387",
+        "src-a0c586246888-pdf_page-00388",
+        "src-a0c586246888-pdf_page-00389",
+        "src-a0c586246888-pdf_page-00390",
+        "src-a0c586246888-pdf_page-00391",
+        "src-a0c586246888-pdf_page-00392",
+        "src-a0c586246888-pdf_page-00393",
+        "src-a0c586246888-pdf_page-00394",
+        "src-a0c586246888-pdf_page-00395",
+        "src-a0c586246888-pdf_page-00396",
+        "src-a0c586246888-pdf_page-00397",
+        "src-a0c586246888-pdf_page-00398",
+        "src-a0c586246888-pdf_page-00399",
+        "src-a0c586246888-pdf_page-00400",
+        "src-a0c586246888-pdf_page-00401",
+        "src-a0c586246888-pdf_page-00402",
+        "src-a0c586246888-pdf_page-00403",
+        "src-a0c586246888-pdf_page-00404",
+        "src-a0c586246888-pdf_page-00405",
+        "src-a0c586246888-pdf_page-00406",
+        "src-a0c586246888-pdf_page-00407",
+        "src-a0c586246888-pdf_page-00408",
+        "src-a0c586246888-pdf_page-00409",
+        "src-a0c586246888-pdf_page-00410",
+        "src-a0c586246888-pdf_page-00411",
+        "src-a0c586246888-pdf_page-00412",
+        "src-a0c586246888-pdf_page-00413",
+        "src-a0c586246888-pdf_page-00414",
+        "src-a0c586246888-pdf_page-00415",
+        "src-a0c586246888-pdf_page-00416"
+      ],
+      "quote": "forms have been reproduced from the online application found at: www.",
+      "checked": true
+    }
+  ],
+  "limitations": [
+    "核心导读，非全量知识整理；次要论证、案例逐字叙述与部分章节的细节段落未逐项展开。",
+    "第2、4、8、9、10、11、13章与附录按扫描级处理（结构账本 + 关键段落精读），未通读全章；第1、3、5、6、7、12章为精读章。",
+    "页面只呈现材料所载内容与作者自述的临床模型，未做独立疗效评价；作者本人也未提供该治疗模型的随机对照试验数据。",
+    "本轮未执行浏览器视觉验收（本机无 Playwright/ws，按规范未擅自安装依赖），交付清单为 static-only、visualReview 为 not-run。",
+    "书中涉及儿童虐待、性侵与临床干预的描述保持原文范围，本页不作操作性指导，也不构成医疗建议。"
+  ]
+}

@@ -1,0 +1,664 @@
+{
+  "schemaVersion": "learn-from-materials/methodology-v1",
+  "id": "attachment-trauma-healing",
+  "version": "1.0.0",
+  "language": "zh-CN",
+  "status": "ready",
+  "structure": "process",
+  "title": "矫正性依恋疗法与矫正性依恋养育的整体结构",
+  "problem": "儿童与成人因早期虐待、忽视与人际创伤而未能建立安全依恋，其后果表现为自我调节受损、混乱—无定向依恋、攻击与控制行为，并经由照护者的依恋表征跨代传递，同时压垮家庭与儿童福利系统。",
+  "outcome": "在亲子关系中促成安全依恋：以评估为起点，经目标与契约进入 LAP 关系情境，依次完成重访、修正与重建，并以再评估形成反馈；养育者训练与家庭/社会系统干预作为并行轨道推进。",
+  "evidence": "synthesis",
+  "note": "本结构是分析层综合，不是作者逐字陈述的流程。作者在书中明确给出四步序列（评估—设定目标—干预—再评估）与三阶段框架（重访—修正—重建），并明确把 LAP 定位为承载其他方法的关系情境；本图把两者整合为单一结构，并标注了哪些连线是作者明示、哪些是本文的推断。图中「界定问题与治疗立场—依恋发育基础—破坏性依恋」三个节点是理解层（分析性前置），因此它们与治疗流程起点一并列为入口；作者原文的流程本身从评估开始。作者未提供该完整流程的对照疗效数据。",
+  "entryNodes": [
+    "m-assess",
+    "m-frame"
+  ],
+  "mainPath": [
+    "m-assess",
+    "m-goals",
+    "m-contract",
+    "m-lap",
+    "m-revisit",
+    "m-revise",
+    "m-revitalize",
+    "m-reassess"
+  ],
+  "nodes": [
+    {
+      "id": "m-frame",
+      "title": "界定问题与治疗立场",
+      "role": "concept",
+      "input": "受虐待、忽视与人际创伤的儿童、成人及其家庭；以及「依恋障碍罕见」这一常见误解。",
+      "action": "确立以家庭系统、人际神经生物学、依恋理论、创伤治疗、发展视角、整合与全人、体验式改变、正向心理学、理论与研究为基础、解决方案导向、文化敏感为支柱的工作立场，并明确治疗目标是创造亲子连结而非控制行为。",
+      "output": "一个统一的问题框架与治疗立场，使后续评估、治疗与养育指向同一目标。",
+      "check": "检查干预是否服务于「促进安全依恋」这一目标，而非仅消除表面症状；并检查是否避开了作者明确拒绝的强制、侵入、控制与制造恐惧的做法。",
+      "unitIds": [
+        "u01"
+      ],
+      "methodIds": [],
+      "evidence": "material",
+      "sources": [
+        {
+          "source": "第1章《Introduction》 · 原书第26页 · PDF第28页",
+          "sourceIds": [
+            "src-a0c586246888-pdf_page-00028"
+          ],
+          "quote": "To clarify, our treatment and parenting programs never use coercive,"
+        }
+      ]
+    },
+    {
+      "id": "m-dev",
+      "title": "依恋的发育基础",
+      "role": "concept",
+      "input": "婴儿与主要照护者在生命前三年的互动。",
+      "action": "通过依恋四阶段与第一年/第二年依恋周期，理解安全依恋如何在需求被满足、唤起被缓解的循环中形成，以及限制设定如何在第二年与自主性平衡。",
+      "output": "对「安全依恋需要哪些具体经验」的可操作理解，供评估与重建使用。",
+      "check": "确认把发育阶段差异考虑在内；作者明确指出第一年与第二年的划分只是参照点，因为婴幼儿发育速率不同。",
+      "unitIds": [
+        "u03"
+      ],
+      "methodIds": [
+        "f-first-year-cycle"
+      ],
+      "evidence": "material",
+      "sources": [
+        {
+          "source": "第3章《Roots of Attachment》 · 原书第61页 · PDF第63页",
+          "sourceIds": [
+            "src-a0c586246888-pdf_page-00063"
+          ],
+          "quote": "infant’s needs and the expression of arousal or displeasure and is completed"
+        }
+      ]
+    },
+    {
+      "id": "m-disrupt",
+      "title": "破坏性依恋与创伤后果",
+      "role": "concept",
+      "input": "虐待、忽视、暴力、性侵、多次安置等早期人际创伤。",
+      "action": "识别自我调节受损、混乱—无定向依恋、攻击与控制行为、以及神经生物层面的警觉反应如何互相强化，并理解依恋模式经由照护者的依恋表征跨代传递。",
+      "output": "对症状背后「关系性病因」的判断，避免把行为问题仅当作个体缺陷处理。",
+      "check": "检查是否把症状放回照护关系与家族历史中理解；作者认为起决定作用的是父母对早期依恋经验的心理表征，而不只是创伤事件本身。",
+      "unitIds": [
+        "u05"
+      ],
+      "methodIds": [],
+      "evidence": "material",
+      "sources": [
+        {
+          "source": "第5章《Disrupted Attachment》 · 原书第99页 · PDF第101页",
+          "sourceIds": [
+            "src-a0c586246888-pdf_page-00101"
+          ],
+          "quote": "Disorganized infant attachment has been found to be associated with"
+        }
+      ]
+    },
+    {
+      "id": "m-assess",
+      "title": "依恋框架下的评估",
+      "role": "action",
+      "input": "儿童、照护者与家庭系统的完整资料。",
+      "action": "按发育史、症状与诊断、父母/照护者依恋史三条支柱收集资料，覆盖六类症状、内在工作模型、家庭系统维度，并做鉴别诊断。",
+      "output": "足以支撑治疗规划的全面评估，以及儿童与父母各自的目标清单。",
+      "check": "确认三条支柱均有资料；确认未在全面评估之前就引入干预（作者认为那样可能无效甚至有害）。",
+      "unitIds": [
+        "u06"
+      ],
+      "methodIds": [
+        "f-pillars",
+        "f-life-script"
+      ],
+      "evidence": "material",
+      "sources": [
+        {
+          "source": "第6章《Assessment》 · 原书第131页 · PDF第133页",
+          "sourceIds": [
+            "src-a0c586246888-pdf_page-00133"
+          ],
+          "quote": "rest on three pillars: 1) developmental history; 2) symptoms and diagnoses"
+        }
+      ]
+    },
+    {
+      "id": "m-goals",
+      "title": "把问题重构为目标",
+      "role": "action",
+      "input": "评估结论与儿童在初次会谈中自述的目标。",
+      "action": "用正向、具体、现实可达的行为化目标替代无助与无望感，并区分儿童、父母与疗法本身三套目标。",
+      "output": "被儿童与父母本人认领的目标清单。",
+      "check": "确认目标具体、可观察、可达成，且由本人拥有而非治疗师代拟。",
+      "unitIds": [
+        "u07"
+      ],
+      "methodIds": [
+        "f-contracting"
+      ],
+      "evidence": "material",
+      "sources": [
+        {
+          "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第183页 · PDF第185页",
+          "sourceIds": [
+            "src-a0c586246888-pdf_page-00185"
+          ],
+          "quote": "Effective therapy is contingent on the establishment of clear and concrete"
+        }
+      ]
+    },
+    {
+      "id": "m-contract",
+      "title": "订立与重订治疗契约",
+      "role": "action",
+      "input": "已确立的目标与治疗框架。",
+      "action": "以口头契约形式明确各方责任与目标，并按「界定问题—重构为目标—推动心理社会改变」三阶段推进，在每次会谈中评估并重订。",
+      "output": "提升的动机、清晰的结构、正向关系，以及对破坏契约的问责。",
+      "check": "确认契约与儿童年龄和发育阶段匹配；作者指出 5 岁以下儿童只与父母订立契约。",
+      "unitIds": [
+        "u07"
+      ],
+      "methodIds": [
+        "f-contracting"
+      ],
+      "evidence": "material",
+      "sources": [
+        {
+          "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第180页 · PDF第182页",
+          "sourceIds": [
+            "src-a0c586246888-pdf_page-00182"
+          ],
+          "quote": "Contracting with the child and parents is a basic and crucial component"
+        }
+      ]
+    },
+    {
+      "id": "m-lap",
+      "title": "建立 LAP 关系情境",
+      "role": "action",
+      "input": "已订立契约并具备基本信任可能性的关系。",
+      "action": "把治疗关系构造为 LAP：以「怀抱中」的身体位置、依恋线索（眼神接触、微笑、轻触、安全环境）、结构、调频与共情，去激活休眠的依恋行为与神经生物学。",
+      "output": "一个安全、可承载创伤工作的关系情境，其他具体方法在此情境中实施。",
+      "check": "确认关系没有变成「强制—顺从」模式；确认儿童的选择与个体需求被尊重。",
+      "unitIds": [
+        "u07"
+      ],
+      "methodIds": [
+        "f-lap"
+      ],
+      "evidence": "material",
+      "sources": [
+        {
+          "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第172页 · PDF第174页",
+          "sourceIds": [
+            "src-a0c586246888-pdf_page-00174"
+          ],
+          "quote": "The LAP creates an experience that promotes secure attachment behavior."
+        }
+      ]
+    },
+    {
+      "id": "m-revisit",
+      "title": "重访（Revisit）",
+      "role": "action",
+      "input": "在 LAP 中建立的安全感与信任。",
+      "action": "承认与表达情感、处理防御、重访早期依恋经验与创伤材料，使原本被否认、回避或解离的体验得以被处理。",
+      "output": "情感可以被表达，创伤材料可以在安全中被接触。",
+      "check": "检查儿童是否已具备足够安全感；确认愤怒与责任被指向施害者，而非指向自己或当前照护者。",
+      "unitIds": [
+        "u08"
+      ],
+      "methodIds": [],
+      "evidence": "material",
+      "sources": [
+        {
+          "source": "第8章《Corrective Attachment Therapy: Methods and Interventions》 · 原书第190页 · PDF第192页",
+          "sourceIds": [
+            "src-a0c586246888-pdf_page-00192"
+          ],
+          "quote": "Revisit"
+        }
+      ]
+    },
+    {
+      "id": "m-revise",
+      "title": "修正（Revise）",
+      "role": "action",
+      "input": "已被承认与表达的情感，以及旧的内在信念。",
+      "action": "通过情绪加工、哀悼丧失、建立信任、亲社会应对技能、依恋沟通训练、自我调节与愤怒管理等方法，修正信念系统、选择、关系模式与应对技能。",
+      "output": "新的核心信念与可用的应对技能。",
+      "check": "确认孩子与父母都实际练习了技能，而不是只获得解释。",
+      "unitIds": [
+        "u08"
+      ],
+      "methodIds": [],
+      "evidence": "material",
+      "sources": [
+        {
+          "source": "第8章《Corrective Attachment Therapy: Methods and Interventions》 · 原书第194页 · PDF第196页",
+          "sourceIds": [
+            "src-a0c586246888-pdf_page-00196"
+          ],
+          "quote": "Revise"
+        }
+      ]
+    },
+    {
+      "id": "m-revitalize",
+      "title": "重建（Revitalize）",
+      "role": "action",
+      "input": "已修正的信念与技能。",
+      "action": "通过重新定义自我、家庭更新、道德与灵性发展、宽恕仪式等，庆祝成果、固化改变并增强对未来的希望。",
+      "output": "被巩固的改变与面向未来的希望感。",
+      "check": "确认改变被明确肯定与庆祝，而不只是症状消失。",
+      "unitIds": [
+        "u08"
+      ],
+      "methodIds": [],
+      "evidence": "material",
+      "sources": [
+        {
+          "source": "第8章《Corrective Attachment Therapy: Methods and Interventions》 · 原书第230页 · PDF第232页",
+          "sourceIds": [
+            "src-a0c586246888-pdf_page-00232"
+          ],
+          "quote": "Revitalize"
+        }
+      ]
+    },
+    {
+      "id": "m-reassess",
+      "title": "再评估",
+      "role": "decision",
+      "input": "刚刚实施的干预与儿童、成人、父母的反应。",
+      "action": "在每个阶段与每次会谈中评估干预结果：反应为正则继续；出现阻抗、严重焦虑或新信息（负向反应）则考虑调整方向。",
+      "output": "继续、调整或重订目标与方法的决定。",
+      "check": "确认评估覆盖情绪、行为、认知、社会、生理、道德/灵性多个层面，而不是只看行为。",
+      "unitIds": [
+        "u07"
+      ],
+      "methodIds": [
+        "f-contracting"
+      ],
+      "evidence": "material",
+      "sources": [
+        {
+          "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第169页 · PDF第171页",
+          "sourceIds": [
+            "src-a0c586246888-pdf_page-00171"
+          ],
+          "quote": "• Reassess: The therapist evaluates the results of interventions."
+        }
+      ]
+    },
+    {
+      "id": "m-parent",
+      "title": "养育者训练与并行工作",
+      "role": "action",
+      "input": "父母的承诺程度、依恋史与自我觉察能力。",
+      "action": "以疗愈环境的要素与十大 C 训练照护者，并同步处理父母的家族议题与婚姻关系，使父母成为孩子的安全基地。",
+      "output": "能提供稳定连结与适当结构的疗愈型照护者。",
+      "check": "确认父母的变化被安排在治疗主线内并行推进，而不是等孩子「修好」之后才开始。",
+      "unitIds": [
+        "u12",
+        "u09"
+      ],
+      "methodIds": [
+        "f-ten-cs",
+        "f-autonomy-circle"
+      ],
+      "evidence": "material",
+      "sources": [
+        {
+          "source": "第12章《Corrective Attachment Parenting》 · 原书第321页 · PDF第323页",
+          "sourceIds": [
+            "src-a0c586246888-pdf_page-00323"
+          ],
+          "quote": "The ten Cs of therapeutic parenting are the foundation for creating a"
+        }
+      ]
+    },
+    {
+      "id": "m-family",
+      "title": "家庭与社会系统层面的干预",
+      "role": "action",
+      "input": "婚姻关系、手足、扩展亲属与外部系统（学校、福利、社区）。",
+      "action": "以「情境、循环、组织」三原则工作：把儿童行为放回家庭互动循环中理解，处理婚姻冲突、三角化、权力争夺与继代表演，并协调外部系统。",
+      "output": "能支撑安全依恋的家庭与社会环境。",
+      "check": "确认干预覆盖了维持问题的互动循环，而不只是改变被转介的儿童。",
+      "unitIds": [
+        "u09"
+      ],
+      "methodIds": [],
+      "evidence": "material",
+      "sources": [
+        {
+          "source": "第9章《Corrective Attachment Therapy: The Family System》 · 原书第234页 · PDF第236页",
+          "sourceIds": [
+            "src-a0c586246888-pdf_page-00236"
+          ],
+          "quote": "• Context: No family member (or relationship) can be understood"
+        }
+      ]
+    },
+    {
+      "id": "m-adult",
+      "title": "成人与伴侣依恋工作",
+      "role": "action",
+      "input": "有虐待、未解决丧失与人际创伤史的成人及其伴侣关系。",
+      "action": "按四类成人依恋风格与「亲近—依赖/回避—焦虑」三维度评估，使用依恋沟通训练、内在小孩隐喻、心理剧重演等方法处理去激活（回避）与过度激活（焦虑）策略。",
+      "output": "更安全的成人依恋关系与更好的情绪沟通。",
+      "check": "确认区分为回避型与焦虑型的不同策略，而不是用同一套方法对待所有伴侣。",
+      "unitIds": [
+        "u10"
+      ],
+      "methodIds": [],
+      "evidence": "material",
+      "sources": [
+        {
+          "source": "第10章《Adult and Couple Attachment》 · 原书第258页 · PDF第260页",
+          "sourceIds": [
+            "src-a0c586246888-pdf_page-00260"
+          ],
+          "quote": "Child – Adult Attachment Styles"
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-frame-dev",
+      "from": "m-frame",
+      "to": "m-dev",
+      "kind": "prerequisite",
+      "condition": "工作立场已确立，并接受「依恋障碍并不罕见」这一前提。",
+      "handoff": "对依恋发育基础的理解。",
+      "why": "立场界定了要看什么；不了解正常依恋的发育过程，就无法判断何处发生了偏离。",
+      "evidence": "inference",
+      "source": "第3章《Roots of Attachment》 · 原书第61页 · PDF第63页"
+    },
+    {
+      "id": "e-dev-disrupt",
+      "from": "m-dev",
+      "to": "m-disrupt",
+      "kind": "causes",
+      "condition": "安全依恋所需的经验在早期缺失或被打断。",
+      "handoff": "对偏离正常发育路径的识别。",
+      "why": "作者主张早期依恋中断、虐待与忽视会改变自我调节与神经生物层面，进而形成混乱—无定向依恋模式；这是作者陈述的因果论证。",
+      "evidence": "material",
+      "source": "第5章《Disrupted Attachment》 · 原书第99页 · PDF第101页"
+    },
+    {
+      "id": "e-disrupt-assess",
+      "from": "m-disrupt",
+      "to": "m-assess",
+      "kind": "prerequisite",
+      "condition": "已认识症状背后的关系性病因。",
+      "handoff": "需要被评估的具体领域（发育史、症状、照护者依恋史）。",
+      "why": "如果只把行为当个体症状，评估就会遗漏依恋史与照护者一侧的资料，三条支柱无法成立。",
+      "evidence": "inference",
+      "source": "第6章《Assessment》 · 原书第131页 · PDF第133页"
+    },
+    {
+      "id": "e-assess-goals",
+      "from": "m-assess",
+      "to": "m-goals",
+      "kind": "main",
+      "condition": "三条支柱的评估资料已收集完成。",
+      "handoff": "评估结论与儿童自述的目标。",
+      "why": "作者把治疗序列明确写成「评估—设定目标—干预—再评估」，目标以评估为基础。",
+      "evidence": "material",
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第183页 · PDF第185页"
+    },
+    {
+      "id": "e-goals-contract",
+      "from": "m-goals",
+      "to": "m-contract",
+      "kind": "main",
+      "condition": "目标已被儿童与父母认领。",
+      "handoff": "共同确认的目标与治疗框架。",
+      "why": "作者把契约描述为把目标转化为各方承诺的机制；没有目标的契约无法成立。",
+      "evidence": "material",
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第180页 · PDF第182页"
+    },
+    {
+      "id": "e-contract-lap",
+      "from": "m-contract",
+      "to": "m-lap",
+      "kind": "main",
+      "condition": "契约已订立，规则与界限已明确。",
+      "handoff": "可预期的结构与初步信任。",
+      "why": "作者指出 LAP 需要「坚定而关怀」的结构；契约正是提供该结构的工具，因此先于 LAP 的情境建立。",
+      "evidence": "inference",
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第172页 · PDF第174页"
+    },
+    {
+      "id": "e-lap-revisit",
+      "from": "m-lap",
+      "to": "m-revisit",
+      "kind": "main",
+      "condition": "关系情境已能提供安全与调节。",
+      "handoff": "被降低的警觉与被提升的信任。",
+      "why": "作者认为儿童通常在否认、回避或解离创伤；只有在 LAP 提供的安全与接纳中，先前可怕的体验才能被处理。",
+      "evidence": "material",
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第176页 · PDF第178页"
+    },
+    {
+      "id": "e-revisit-revise",
+      "from": "m-revisit",
+      "to": "m-revise",
+      "kind": "main",
+      "condition": "情感已被承认与表达。",
+      "handoff": "被表达的情感与被识别的旧信念。",
+      "why": "作者的三阶段框架把重访排在修正之前：先接触与表达，再改变信念、选择与技能。",
+      "evidence": "material",
+      "source": "第8章《Corrective Attachment Therapy: Methods and Interventions》 · 原书第194页 · PDF第196页"
+    },
+    {
+      "id": "e-revise-revitalize",
+      "from": "m-revise",
+      "to": "m-revitalize",
+      "kind": "main",
+      "condition": "新的信念与技能已经建立。",
+      "handoff": "已修正的信念、选择与应对技能。",
+      "why": "作者把重建放在最后，用于庆祝成就、巩固改变并增强对未来的希望。",
+      "evidence": "material",
+      "source": "第8章《Corrective Attachment Therapy: Methods and Interventions》 · 原书第230页 · PDF第232页"
+    },
+    {
+      "id": "e-revitalize-reassess",
+      "from": "m-revitalize",
+      "to": "m-reassess",
+      "kind": "main",
+      "condition": "一个阶段的干预已经完成。",
+      "handoff": "儿童、成人与父母的反应。",
+      "why": "作者把再评估设为每个阶段结尾的固定动作，据此决定继续、调整或重订。",
+      "evidence": "material",
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第169页 · PDF第171页"
+    },
+    {
+      "id": "e-reassess-goals",
+      "from": "m-reassess",
+      "to": "m-goals",
+      "kind": "feedback",
+      "condition": "再评估出现负向反应，例如阻抗、严重焦虑或新信息。",
+      "handoff": "被修正的目标与后续方向。",
+      "why": "作者明确写出：基于负向反应「可以考虑不同的治疗方向」，也就是回到目标层面重订，而不是照原计划推进。",
+      "evidence": "material",
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第169页 · PDF第171页"
+    },
+    {
+      "id": "e-lap-parent",
+      "from": "m-lap",
+      "to": "m-parent",
+      "kind": "parallel",
+      "condition": "治疗关系与家庭养育同时进行。",
+      "handoff": "同一种关系成分：结构、共情、调频与修复性体验。",
+      "why": "作者把治疗关系与亲子关系描述为需要同一组成分，并指出孩子只有在父母能够接受这份爱时才敢体验与表达爱，因此养育者工作是并行轨道而非后续步骤。",
+      "evidence": "material",
+      "source": "第12章《Corrective Attachment Parenting》 · 原书第321页 · PDF第323页"
+    },
+    {
+      "id": "e-parent-family",
+      "from": "m-parent",
+      "to": "m-family",
+      "kind": "parallel",
+      "condition": "家庭系统被视为改变的载体。",
+      "handoff": "父母的改变对家庭互动循环的影响。",
+      "why": "作者主张系统改变则孩子改变；父母改变自己的做法，孩子会随之改变，因此养育者训练与家庭系统干预是同一过程的两个入口。",
+      "evidence": "material",
+      "source": "第9章《Corrective Attachment Therapy: The Family System》 · 原书第234页 · PDF第236页"
+    },
+    {
+      "id": "e-family-adult",
+      "from": "m-family",
+      "to": "m-adult",
+      "kind": "supports",
+      "condition": "家庭系统中包含成人的伴侣关系。",
+      "handoff": "婚姻质量对亲子依恋的影响，以及成人自身的依恋史。",
+      "why": "作者指出婚姻冲突会影响亲子依恋的质量，且成人的依恋风格会在亲密关系中重演，因此成人/伴侣工作是家庭系统路径的一个出口。",
+      "evidence": "material",
+      "source": "第10章《Adult and Couple Attachment》 · 原书第258页 · PDF第260页"
+    }
+  ],
+  "constraints": [
+    {
+      "text": "治疗与养育均不得使用强制、侵入、控制、不道德或制造恐惧的干预。",
+      "evidence": "material",
+      "source": "第1章《Introduction》 · 原书第26页 · PDF第28页"
+    },
+    {
+      "text": "治疗契约必须与儿童的年龄和发育阶段匹配；治疗 5 岁以下儿童时契约只与父母订立。",
+      "evidence": "material",
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第181页 · PDF第183页"
+    },
+    {
+      "text": "LAP 不是一种技术，而是承载其他方法的关系情境，且不能脱离治疗环境与治疗师的训练与敏感性来理解。",
+      "evidence": "material",
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第172页 · PDF第174页"
+    },
+    {
+      "text": "作者未提供该治疗模型的随机对照疗效数据；书中关于机制与效果的表述基于临床经验、案例与所引研究文献。",
+      "evidence": "inference",
+      "source": "第7章《Corrective Attachment Therapy: Basic Theoretical and Treatment Issues》 · 原书第172页 · PDF第174页"
+    }
+  ],
+  "coverage": [
+    {
+      "unitId": "u01",
+      "nodeIds": [
+        "m-frame"
+      ],
+      "role": "core",
+      "reason": "导论给出问题界定、十一条基础原则与四条解决路径，构成整份材料的问题框架。"
+    },
+    {
+      "unitId": "u02",
+      "nodeIds": [
+        "m-frame"
+      ],
+      "role": "context",
+      "reason": "历史视角说明依恋理论的问题意识来源（Bowlby、Ainsworth、Harlow 等），支撑立场但不新增可执行节点。"
+    },
+    {
+      "unitId": "u03",
+      "nodeIds": [
+        "m-dev"
+      ],
+      "role": "core",
+      "reason": "依恋四阶段与两个依恋周期界定「安全依恋需要哪些具体经验」。"
+    },
+    {
+      "unitId": "u04",
+      "nodeIds": [
+        "m-dev"
+      ],
+      "role": "evidence",
+      "reason": "内在工作模型、共情与道德发展、韧性等，为发育基础节点提供后果侧证据。"
+    },
+    {
+      "unitId": "u05",
+      "nodeIds": [
+        "m-disrupt"
+      ],
+      "role": "core",
+      "reason": "自我调节、混乱—无定向依恋、虐待与神经生物学构成破坏性依恋的核心机制。"
+    },
+    {
+      "unitId": "u06",
+      "nodeIds": [
+        "m-assess"
+      ],
+      "role": "core",
+      "reason": "三支柱、六类症状、家庭系统维度与鉴别诊断直接对应评估节点。"
+    },
+    {
+      "unitId": "u07",
+      "nodeIds": [
+        "m-goals",
+        "m-contract",
+        "m-lap",
+        "m-reassess"
+      ],
+      "role": "core",
+      "reason": "该章给出治疗序列、LAP 的目标与功能、阻抗处理、契约与四类治疗目标。"
+    },
+    {
+      "unitId": "u08",
+      "nodeIds": [
+        "m-revisit",
+        "m-revise",
+        "m-revitalize"
+      ],
+      "role": "core",
+      "reason": "该章按重访、修正、重建三阶段展开全部具体方法与案例。"
+    },
+    {
+      "unitId": "u09",
+      "nodeIds": [
+        "m-family",
+        "m-parent"
+      ],
+      "role": "core",
+      "reason": "家庭系统三原则、婚姻影响、继代传递与家庭干预构成系统轨道。"
+    },
+    {
+      "unitId": "u10",
+      "nodeIds": [
+        "m-adult"
+      ],
+      "role": "core",
+      "reason": "成人依恋四风格、三维度与伴侣干预构成成人轨道。"
+    },
+    {
+      "unitId": "u11",
+      "nodeIds": [
+        "m-reassess"
+      ],
+      "role": "evidence",
+      "reason": "强化门诊治疗的 30 小时结构与十次会谈记录，是治疗序列在真实项目中的实施证据。"
+    },
+    {
+      "unitId": "u12",
+      "nodeIds": [
+        "m-parent"
+      ],
+      "role": "core",
+      "reason": "疗愈环境要素、十大 C 与具体养育技能构成养育者轨道。"
+    },
+    {
+      "unitId": "u13",
+      "nodeIds": [
+        "m-family"
+      ],
+      "role": "context",
+      "reason": "寄养、收养与儿童福利系统的历史与建议，说明本模型所面对的系统性约束，但不改变临床流程。"
+    },
+    {
+      "unitId": "u14",
+      "nodeIds": [],
+      "role": "context",
+      "reason": "附录 A–I 提供评估表单、症状对照表与治疗计划模板等工具，支撑评估与交付，但不新增结构节点。"
+    }
+  ]
+}
